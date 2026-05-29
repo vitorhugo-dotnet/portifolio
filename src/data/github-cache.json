@@ -36,6 +36,116 @@
   },
   "repos": [
     {
+      "id": 1189545274,
+      "node_id": "R_kgDORucFOg",
+      "name": "portifolio",
+      "full_name": "vitorhugo-java/portifolio",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-java",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "html_url": "https://github.com/vitorhugo-java",
+        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-java/portifolio",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-java/portifolio",
+      "forks_url": "https://api.github.com/repos/vitorhugo-java/portifolio/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-java/portifolio/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/portifolio/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-java/portifolio/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-java/portifolio/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-java/portifolio/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-java/portifolio/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-java/portifolio/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-java/portifolio/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-java/portifolio/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-java/portifolio/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/portifolio/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-java/portifolio/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/portifolio/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-java/portifolio/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-java/portifolio/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-java/portifolio/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-java/portifolio/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-java/portifolio/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-java/portifolio/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-java/portifolio/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-java/portifolio/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-java/portifolio/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-java/portifolio/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-java/portifolio/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
+      "created_at": "2026-03-23T12:34:58Z",
+      "updated_at": "2026-05-13T13:28:45Z",
+      "pushed_at": "2026-05-28T02:58:58Z",
+      "git_url": "git://github.com/vitorhugo-java/portifolio.git",
+      "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
+      "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
+      "svn_url": "https://github.com/vitorhugo-java/portifolio",
+      "homepage": "http://hugojava.dev/",
+      "size": 606,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "TypeScript",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": false,
+      "has_pages": true,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
       "id": 1217570049,
       "node_id": "R_kgDOSJKlAQ",
       "name": "almighty-blocker-unstoppable",
@@ -151,116 +261,6 @@
         "watchdog",
         "windows-service"
       ],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 0,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1189545274,
-      "node_id": "R_kgDORucFOg",
-      "name": "portifolio",
-      "full_name": "vitorhugo-java/portifolio",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-java",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "html_url": "https://github.com/vitorhugo-java",
-        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-java/portifolio",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-java/portifolio",
-      "forks_url": "https://api.github.com/repos/vitorhugo-java/portifolio/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-java/portifolio/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/portifolio/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-java/portifolio/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-java/portifolio/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-java/portifolio/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-java/portifolio/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-java/portifolio/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-java/portifolio/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-java/portifolio/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-java/portifolio/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/portifolio/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-java/portifolio/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/portifolio/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-java/portifolio/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-java/portifolio/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-java/portifolio/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-java/portifolio/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-java/portifolio/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-java/portifolio/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-java/portifolio/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-java/portifolio/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-java/portifolio/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-java/portifolio/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-java/portifolio/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
-      "created_at": "2026-03-23T12:34:58Z",
-      "updated_at": "2026-05-13T13:28:45Z",
-      "pushed_at": "2026-05-27T02:59:29Z",
-      "git_url": "git://github.com/vitorhugo-java/portifolio.git",
-      "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
-      "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
-      "svn_url": "https://github.com/vitorhugo-java/portifolio",
-      "homepage": "http://hugojava.dev/",
-      "size": 601,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "TypeScript",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": true,
-      "has_wiki": false,
-      "has_pages": true,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 0,
-      "license": null,
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
@@ -2243,14 +2243,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:28:08Z",
-      "updated_at": "2026-05-28T01:34:09Z",
-      "pushed_at": "2026-05-28T01:34:05Z",
+      "updated_at": "2026-05-29T01:33:06Z",
+      "pushed_at": "2026-05-29T01:33:02Z",
       "git_url": "git://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker",
       "homepage": "",
-      "size": 3700,
+      "size": 3773,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Java",
@@ -2375,8 +2375,8 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:29:30Z",
-      "updated_at": "2026-05-28T00:42:56Z",
-      "pushed_at": "2026-05-28T00:42:52Z",
+      "updated_at": "2026-05-28T23:19:27Z",
+      "pushed_at": "2026-05-28T23:19:23Z",
       "git_url": "git://github.com/vitorhugo-java/React-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/React-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/React-JobApplyTracker.git",
@@ -2434,7 +2434,7 @@
   ],
   "events": [
     {
-      "id": "12466108274",
+      "id": "12519022764",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2451,42 +2451,16 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 34755945668,
+        "push_id": 34808755451,
         "ref": "refs/heads/main",
-        "head": "203391ef8e926aa1de30d2128a4ac6d4cdeef806",
-        "before": "218a0248227fc3b5cb95eafd7bec2553903936cc"
+        "head": "e24e260184e20989575b74f8390dcedad1f950a2",
+        "before": "5ff58adec7af1188fdc69330254a16190f304501"
       },
       "public": true,
-      "created_at": "2026-05-28T01:34:06Z"
+      "created_at": "2026-05-29T01:33:03Z"
     },
     {
-      "id": "12464776327",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209541142,
-        "push_id": 34754618246,
-        "ref": "refs/heads/main",
-        "head": "03d79b131f578de23cff673b6988bb3b2d00757a",
-        "before": "ed6919a3c26de0bce42fb2f548ddfaa030229f96"
-      },
-      "public": true,
-      "created_at": "2026-05-28T00:42:53Z"
-    },
-    {
-      "id": "12464652413",
+      "id": "12518757067",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2503,16 +2477,16 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 34754494719,
+        "push_id": 34808489785,
         "ref": "refs/heads/main",
-        "head": "218a0248227fc3b5cb95eafd7bec2553903936cc",
-        "before": "5f91c8f904a42a58b9af01f4e8dd463a21d778ab"
+        "head": "5ff58adec7af1188fdc69330254a16190f304501",
+        "before": "07a2a51afc0155a4ce95ab6a28851b8a09bfbc23"
       },
       "public": true,
-      "created_at": "2026-05-28T00:37:56Z"
+      "created_at": "2026-05-29T01:22:22Z"
     },
     {
-      "id": "12464591778",
+      "id": "12518580567",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2529,16 +2503,42 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 34754434292,
+        "push_id": 34808313261,
         "ref": "refs/heads/main",
-        "head": "5f91c8f904a42a58b9af01f4e8dd463a21d778ab",
-        "before": "e6a2601fe672b5341d96142b6f63dcdf882c784b"
+        "head": "07a2a51afc0155a4ce95ab6a28851b8a09bfbc23",
+        "before": "13969e697bbf79c413f7f1695a3aef4023cfb1df"
       },
       "public": true,
-      "created_at": "2026-05-28T00:35:35Z"
+      "created_at": "2026-05-29T01:15:23Z"
     },
     {
-      "id": "12464493831",
+      "id": "12516396406",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 34806131438,
+        "ref": "refs/heads/main",
+        "head": "13969e697bbf79c413f7f1695a3aef4023cfb1df",
+        "before": "c3256e125b8b4fc9b69a8ae1d9d3afa2bb517245"
+      },
+      "public": true,
+      "created_at": "2026-05-28T23:50:27Z"
+    },
+    {
+      "id": "12515576551",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2555,41 +2555,16 @@
       },
       "payload": {
         "repository_id": 1209541142,
-        "push_id": 34754336683,
+        "push_id": 34805312539,
         "ref": "refs/heads/main",
-        "head": "ed6919a3c26de0bce42fb2f548ddfaa030229f96",
-        "before": "c1890e3c600aa413b456e1d47fdac5a7741b48f2"
+        "head": "6c43ad0b3720c2ad96c096bbbf9f94ad2a4976f4",
+        "before": "3b892dbcb82bb616a80c01f2d604eb02f1253a34"
       },
       "public": true,
-      "created_at": "2026-05-28T00:31:52Z"
+      "created_at": "2026-05-28T23:19:24Z"
     },
     {
-      "id": "12464255884",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
-      },
-      "payload": {
-        "ref": "copilot/feature-import-application-data-json",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/copilot/feature-import-application-data-json",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-05-28T00:22:39Z"
-    },
-    {
-      "id": "12464254947",
+      "id": "12514632058",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2600,23 +2575,23 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "repository_id": 1209541142,
-        "push_id": 34754098757,
+        "repository_id": 1209539905,
+        "push_id": 34804372482,
         "ref": "refs/heads/main",
-        "head": "c1890e3c600aa413b456e1d47fdac5a7741b48f2",
-        "before": "65c71355a4d658f0e5e092948313b43479ee6c87"
+        "head": "c3256e125b8b4fc9b69a8ae1d9d3afa2bb517245",
+        "before": "60a7540d271a6e0b26d2742cb1738be336ef6434"
       },
       "public": true,
-      "created_at": "2026-05-28T00:22:37Z"
+      "created_at": "2026-05-28T22:45:50Z"
     },
     {
-      "id": "9979472076",
-      "type": "IssuesEvent",
+      "id": "12514197788",
+      "type": "PushEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-java",
@@ -2626,154 +2601,23 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "action": "closed",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53",
-          "repository_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53/events",
-          "html_url": "https://github.com/vitorhugo-java/React-JobApplyTracker/issues/53",
-          "id": 4532551994,
-          "node_id": "I_kwDOSBgiFs8AAAABDilBOg",
-          "number": 53,
-          "title": "Feature: Import Application Data from JSON (Frontend Only)",
-          "user": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "closed",
-          "locked": false,
-          "assignees": [
-            {
-              "login": "vitorhugo-java",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-java",
-              "html_url": "https://github.com/vitorhugo-java",
-              "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            {
-              "login": "Copilot",
-              "id": 198982749,
-              "node_id": "BOT_kgDOC9w8XQ",
-              "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/Copilot",
-              "html_url": "https://github.com/apps/copilot-swe-agent",
-              "followers_url": "https://api.github.com/users/Copilot/followers",
-              "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
-              "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
-              "organizations_url": "https://api.github.com/users/Copilot/orgs",
-              "repos_url": "https://api.github.com/users/Copilot/repos",
-              "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/Copilot/received_events",
-              "type": "Bot",
-              "user_view_type": "public",
-              "site_admin": false
-            }
-          ],
-          "milestone": null,
-          "comments": 0,
-          "created_at": "2026-05-27T13:08:46Z",
-          "updated_at": "2026-05-28T00:22:37Z",
-          "closed_at": "2026-05-28T00:22:36Z",
-          "assignee": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "active_lock_reason": null,
-          "sub_issues_summary": {
-            "total": 0,
-            "completed": 0,
-            "percent_completed": 0
-          },
-          "issue_dependencies_summary": {
-            "blocked_by": 0,
-            "total_blocked_by": 0,
-            "blocking": 0,
-            "total_blocking": 0
-          },
-          "body": "<html>\n<body>\n<!--StartFragment--><html><head></head><body><h1>Feature: Import Application Data from AI JSON (Frontend Only)</h1><h2>Overview</h2><p>Add a new feature to the Application form that allows users to import structured application data generated by AI models.</p><p>The feature must provide a button that opens a PrimeReact Dialog overlay where the user can paste a JSON payload generated from an AI prompt.</p><p>The JSON must be parsed and mapped directly into the existing JobApplication form fields using the exact backend/API attribute names.</p><p>This is a frontend-only feature. No backend changes are required.</p><hr><h2>Motivation</h2><p>The project now supports AI-assisted job application workflows.</p><p>Users may use GPTs or external AI assistants to analyze job descriptions and generate structured JSON compatible with the backend API.</p><p>This feature allows users to:</p><ul><li><p>copy AI-generated JSON</p></li><li><p>paste directly into the application form</p></li><li><p>automatically pre-fill the form</p></li><li><p>reduce repetitive manual work</p></li><li><p>improve mobile workflow</p></li></ul><p>The imported JSON structure MUST remain fully compatible with the backend <code inline=\"\">JobApplication</code> contract.</p><hr><h2>AI Integration Contract</h2><p>The frontend must support importing JSON generated using prompts similar to:</p><pre><code class=\"language-text\">Analyze this job description and return ONLY a JSON inside a markdown code block.\n</code></pre><p>The AI is instructed to return JSON using the exact backend field names.</p><p>Expected supported fields:</p><pre><code class=\"language-json\">{\n  \"vacancyName\": \"\",\n  \"recruiterName\": \"\",\n  \"organization\": \"\",\n  \"vacancyLink\": \"\",\n  \"recruiterDmReminderEnabled\": false,\n  \"note\": \"\"\n}\n</code></pre><p>The frontend importer MUST support these exact field names without transformations.</p><hr><h2>Requirements</h2><h3>UI</h3><ul><li><p>Add a visible button:<br><code inline=\"\">Import AI JSON</code></p></li><li><p>Clicking the button opens a PrimeReact <code inline=\"\">Dialog</code></p></li><li><p>The dialog must contain:</p><ul><li><p><code inline=\"\">Textarea</code> for JSON input</p></li><li><p>Import button</p></li><li><p>Cancel button</p></li></ul></li><li><p>Mobile friendly layout required</p></li></ul><hr><h2>JSON Parsing</h2><p>The feature must:</p><ul><li><p>accept raw JSON</p></li><li><p>accept markdown-wrapped JSON</p></li></ul><p>Example:</p><pre><code class=\"language-markdown\">```json\n{\n  \"vacancyName\":\"Java Developer\"\n}\n```\n</code></pre><p>The system must automatically:</p><ul><li><p>remove markdown wrappers</p></li><li><p>extract pure JSON</p></li><li><p>parse safely</p></li><li><p>validate fields</p></li></ul><hr><h2>Mapping Rules</h2><p>The JSON keys MUST match the backend/API contract exactly.</p><p>Supported fields:</p>\nJSON Key | Form Field\n-- | --\nvacancyName | vacancyName\nrecruiterName | recruiterName\norganization | organization\nvacancyLink | vacancyLink\nrecruiterDmReminderEnabled | recruiterDmReminderEnabled\nnote | note\n\n<p>Rules:</p><ul><li><p>no transformation layer</p></li><li><p>no aliases</p></li><li><p>no custom schema</p></li><li><p>ignore unknown fields</p></li><li><p>do not invent fields</p></li><li><p>preserve backend naming conventions exactly</p></li></ul><hr><h2>Error Handling</h2><p>Show friendly UI errors for:</p><ul><li><p>invalid JSON</p></li><li><p>malformed markdown</p></li><li><p>parsing failures</p></li><li><p>empty payloads</p></li></ul><p>Use existing PrimeReact patterns:</p><ul><li><p>Toast</p></li><li><p>Inline validation</p></li><li><p>Loading states</p></li></ul><hr><h2>AI Prompt Compatibility</h2><p>The importer MUST remain compatible with AI prompts using these rules:</p><ul><li><p>exact backend field names</p></li><li><p>valid parsable JSON</p></li><li><p>no explanations</p></li><li><p>no extra text</p></li><li><p>recruiter-oriented ATS notes</p></li><li><p>inferred company/vacancy extraction</p></li></ul><p>The frontend should not attempt to reinterpret or rename AI-generated keys.</p><hr><h2>Technical Requirements</h2><p>Suggested implementation:</p><pre><code class=\"language-text\">ImportAiJsonDialog.tsx\n\nuseImportAiJson.ts\n</code></pre><p>Suggested helper methods:</p><pre><code class=\"language-ts\">extractJsonFromMarkdown()\n\nparseAiJson()\n\nmapJsonToForm()\n</code></pre><p>Use:</p><ul><li><p>React Hook Form</p></li><li><p>PrimeReact Dialog</p></li><li><p>PrimeReact InputTextarea</p></li><li><p>PrimeReact Button</p></li><li><p>Typescript strict mode</p></li></ul><hr><h2>Acceptance Criteria</h2><ul><li><p>User clicks <code inline=\"\">Import AI JSON</code></p></li><li><p>Dialog opens</p></li><li><p>User pastes AI-generated JSON</p></li><li><p>Markdown wrappers are automatically removed</p></li><li><p>JSON is parsed successfully</p></li><li><p>Matching fields are pre-filled automatically</p></li><li><p>Unknown fields are ignored safely</p></li><li><p>Invalid JSON shows friendly validation errors</p></li><li><p>No backend endpoint is introduced or modified</p></li><li><p>Imported fields remain fully compatible with the backend JobApplication API</p></li></ul></body></html><!--EndFragment-->\n</body>\n</html>",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53/reactions",
-            "total_count": 1,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 1
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53/timeline",
-          "performed_via_github_app": null,
-          "state_reason": "completed",
-          "pinned_comment": null
-        }
+        "repository_id": 1209539905,
+        "push_id": 34803939407,
+        "ref": "refs/heads/main",
+        "head": "60a7540d271a6e0b26d2742cb1738be336ef6434",
+        "before": "50e42753bed4414cd7e28f24f5ec0478963846c7"
       },
       "public": true,
-      "created_at": "2026-05-28T00:22:37Z"
+      "created_at": "2026-05-28T22:31:00Z"
     },
     {
-      "id": "9978334445",
-      "type": "IssuesEvent",
+      "id": "12510494023",
+      "type": "PushEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-java",
@@ -2783,219 +2627,23 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "action": "assigned",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53",
-          "repository_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53/events",
-          "html_url": "https://github.com/vitorhugo-java/React-JobApplyTracker/issues/53",
-          "id": 4532551994,
-          "node_id": "I_kwDOSBgiFs8AAAABDilBOg",
-          "number": 53,
-          "title": "Feature: Import Application Data from JSON (Frontend Only)",
-          "user": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "closed",
-          "locked": false,
-          "assignees": [
-            {
-              "login": "vitorhugo-java",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-java",
-              "html_url": "https://github.com/vitorhugo-java",
-              "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            {
-              "login": "Copilot",
-              "id": 198982749,
-              "node_id": "BOT_kgDOC9w8XQ",
-              "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/Copilot",
-              "html_url": "https://github.com/apps/copilot-swe-agent",
-              "followers_url": "https://api.github.com/users/Copilot/followers",
-              "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
-              "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
-              "organizations_url": "https://api.github.com/users/Copilot/orgs",
-              "repos_url": "https://api.github.com/users/Copilot/repos",
-              "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/Copilot/received_events",
-              "type": "Bot",
-              "user_view_type": "public",
-              "site_admin": false
-            }
-          ],
-          "milestone": null,
-          "comments": 0,
-          "created_at": "2026-05-27T13:08:46Z",
-          "updated_at": "2026-05-28T00:22:37Z",
-          "closed_at": "2026-05-28T00:22:36Z",
-          "assignee": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "active_lock_reason": null,
-          "sub_issues_summary": {
-            "total": 0,
-            "completed": 0,
-            "percent_completed": 0
-          },
-          "issue_dependencies_summary": {
-            "blocked_by": 0,
-            "total_blocked_by": 0,
-            "blocking": 0,
-            "total_blocking": 0
-          },
-          "body": "<html>\n<body>\n<!--StartFragment--><html><head></head><body><h1>Feature: Import Application Data from AI JSON (Frontend Only)</h1><h2>Overview</h2><p>Add a new feature to the Application form that allows users to import structured application data generated by AI models.</p><p>The feature must provide a button that opens a PrimeReact Dialog overlay where the user can paste a JSON payload generated from an AI prompt.</p><p>The JSON must be parsed and mapped directly into the existing JobApplication form fields using the exact backend/API attribute names.</p><p>This is a frontend-only feature. No backend changes are required.</p><hr><h2>Motivation</h2><p>The project now supports AI-assisted job application workflows.</p><p>Users may use GPTs or external AI assistants to analyze job descriptions and generate structured JSON compatible with the backend API.</p><p>This feature allows users to:</p><ul><li><p>copy AI-generated JSON</p></li><li><p>paste directly into the application form</p></li><li><p>automatically pre-fill the form</p></li><li><p>reduce repetitive manual work</p></li><li><p>improve mobile workflow</p></li></ul><p>The imported JSON structure MUST remain fully compatible with the backend <code inline=\"\">JobApplication</code> contract.</p><hr><h2>AI Integration Contract</h2><p>The frontend must support importing JSON generated using prompts similar to:</p><pre><code class=\"language-text\">Analyze this job description and return ONLY a JSON inside a markdown code block.\n</code></pre><p>The AI is instructed to return JSON using the exact backend field names.</p><p>Expected supported fields:</p><pre><code class=\"language-json\">{\n  \"vacancyName\": \"\",\n  \"recruiterName\": \"\",\n  \"organization\": \"\",\n  \"vacancyLink\": \"\",\n  \"recruiterDmReminderEnabled\": false,\n  \"note\": \"\"\n}\n</code></pre><p>The frontend importer MUST support these exact field names without transformations.</p><hr><h2>Requirements</h2><h3>UI</h3><ul><li><p>Add a visible button:<br><code inline=\"\">Import AI JSON</code></p></li><li><p>Clicking the button opens a PrimeReact <code inline=\"\">Dialog</code></p></li><li><p>The dialog must contain:</p><ul><li><p><code inline=\"\">Textarea</code> for JSON input</p></li><li><p>Import button</p></li><li><p>Cancel button</p></li></ul></li><li><p>Mobile friendly layout required</p></li></ul><hr><h2>JSON Parsing</h2><p>The feature must:</p><ul><li><p>accept raw JSON</p></li><li><p>accept markdown-wrapped JSON</p></li></ul><p>Example:</p><pre><code class=\"language-markdown\">```json\n{\n  \"vacancyName\":\"Java Developer\"\n}\n```\n</code></pre><p>The system must automatically:</p><ul><li><p>remove markdown wrappers</p></li><li><p>extract pure JSON</p></li><li><p>parse safely</p></li><li><p>validate fields</p></li></ul><hr><h2>Mapping Rules</h2><p>The JSON keys MUST match the backend/API contract exactly.</p><p>Supported fields:</p>\nJSON Key | Form Field\n-- | --\nvacancyName | vacancyName\nrecruiterName | recruiterName\norganization | organization\nvacancyLink | vacancyLink\nrecruiterDmReminderEnabled | recruiterDmReminderEnabled\nnote | note\n\n<p>Rules:</p><ul><li><p>no transformation layer</p></li><li><p>no aliases</p></li><li><p>no custom schema</p></li><li><p>ignore unknown fields</p></li><li><p>do not invent fields</p></li><li><p>preserve backend naming conventions exactly</p></li></ul><hr><h2>Error Handling</h2><p>Show friendly UI errors for:</p><ul><li><p>invalid JSON</p></li><li><p>malformed markdown</p></li><li><p>parsing failures</p></li><li><p>empty payloads</p></li></ul><p>Use existing PrimeReact patterns:</p><ul><li><p>Toast</p></li><li><p>Inline validation</p></li><li><p>Loading states</p></li></ul><hr><h2>AI Prompt Compatibility</h2><p>The importer MUST remain compatible with AI prompts using these rules:</p><ul><li><p>exact backend field names</p></li><li><p>valid parsable JSON</p></li><li><p>no explanations</p></li><li><p>no extra text</p></li><li><p>recruiter-oriented ATS notes</p></li><li><p>inferred company/vacancy extraction</p></li></ul><p>The frontend should not attempt to reinterpret or rename AI-generated keys.</p><hr><h2>Technical Requirements</h2><p>Suggested implementation:</p><pre><code class=\"language-text\">ImportAiJsonDialog.tsx\n\nuseImportAiJson.ts\n</code></pre><p>Suggested helper methods:</p><pre><code class=\"language-ts\">extractJsonFromMarkdown()\n\nparseAiJson()\n\nmapJsonToForm()\n</code></pre><p>Use:</p><ul><li><p>React Hook Form</p></li><li><p>PrimeReact Dialog</p></li><li><p>PrimeReact InputTextarea</p></li><li><p>PrimeReact Button</p></li><li><p>Typescript strict mode</p></li></ul><hr><h2>Acceptance Criteria</h2><ul><li><p>User clicks <code inline=\"\">Import AI JSON</code></p></li><li><p>Dialog opens</p></li><li><p>User pastes AI-generated JSON</p></li><li><p>Markdown wrappers are automatically removed</p></li><li><p>JSON is parsed successfully</p></li><li><p>Matching fields are pre-filled automatically</p></li><li><p>Unknown fields are ignored safely</p></li><li><p>Invalid JSON shows friendly validation errors</p></li><li><p>No backend endpoint is introduced or modified</p></li><li><p>Imported fields remain fully compatible with the backend JobApplication API</p></li></ul></body></html><!--EndFragment-->\n</body>\n</html>",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53/reactions",
-            "total_count": 1,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 1
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/53/timeline",
-          "performed_via_github_app": null,
-          "state_reason": "completed",
-          "pinned_comment": null
-        },
-        "assignee": {
-          "login": "Copilot",
-          "id": 198982749,
-          "node_id": "BOT_kgDOC9w8XQ",
-          "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/Copilot",
-          "html_url": "https://github.com/apps/copilot-swe-agent",
-          "followers_url": "https://api.github.com/users/Copilot/followers",
-          "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
-          "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
-          "organizations_url": "https://api.github.com/users/Copilot/orgs",
-          "repos_url": "https://api.github.com/users/Copilot/repos",
-          "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/Copilot/received_events",
-          "type": "Bot",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "assignees": [
-          {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          {
-            "login": "Copilot",
-            "id": 198982749,
-            "node_id": "BOT_kgDOC9w8XQ",
-            "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Copilot",
-            "html_url": "https://github.com/apps/copilot-swe-agent",
-            "followers_url": "https://api.github.com/users/Copilot/followers",
-            "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
-            "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
-            "organizations_url": "https://api.github.com/users/Copilot/orgs",
-            "repos_url": "https://api.github.com/users/Copilot/repos",
-            "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/Copilot/received_events",
-            "type": "Bot",
-            "user_view_type": "public",
-            "site_admin": false
-          }
-        ]
+        "repository_id": 1209539905,
+        "push_id": 34800245049,
+        "ref": "refs/heads/main",
+        "head": "50e42753bed4414cd7e28f24f5ec0478963846c7",
+        "before": "c3f294caf1340561b15ef78f46bff420671dbe7f"
       },
       "public": true,
-      "created_at": "2026-05-27T23:35:39Z"
+      "created_at": "2026-05-28T20:42:45Z"
     },
     {
-      "id": "12462634524",
-      "type": "DeleteEvent",
+      "id": "12510468442",
+      "type": "PushEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-java",
@@ -3005,26 +2653,48 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "ref": "copilot/feature-base-template-cv-generation-flow",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/copilot/feature-base-template-cv-generation-flow",
-        "pusher_type": "user"
+        "repository_id": 1209539905,
+        "push_id": 34800219757,
+        "ref": "refs/heads/main",
+        "head": "c3f294caf1340561b15ef78f46bff420671dbe7f",
+        "before": "a63bdd4f42fd154ae15d0547eb050cd6a7b76018"
       },
       "public": true,
-      "created_at": "2026-05-27T23:21:48Z"
+      "created_at": "2026-05-28T20:42:05Z"
+    },
+    {
+      "id": "12510391542",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 34800143126,
+        "ref": "refs/heads/main",
+        "head": "a63bdd4f42fd154ae15d0547eb050cd6a7b76018",
+        "before": "87c9afae09932e9dc8646b27a13f0f6288c1871f"
+      },
+      "public": true,
+      "created_at": "2026-05-28T20:40:04Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-05-29",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-05-30",
       "count": 0,
@@ -4617,8 +4287,8 @@
     },
     {
       "date": "2026-04-13",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-04-14",
@@ -4732,7 +4402,7 @@
     },
     {
       "date": "2026-05-06",
-      "count": 45,
+      "count": 20,
       "level": 4
     },
     {
@@ -4842,9 +4512,14 @@
     },
     {
       "date": "2026-05-28",
-      "count": 8,
-      "level": 3
+      "count": 31,
+      "level": 4
+    },
+    {
+      "date": "2026-05-29",
+      "count": 3,
+      "level": 2
     }
   ],
-  "generatedAt": "2026-05-28T01:34:50.508Z"
+  "generatedAt": "2026-05-29T01:39:46.063Z"
 }
