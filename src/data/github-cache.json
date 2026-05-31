@@ -104,13 +104,13 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
       "updated_at": "2026-05-13T13:28:45Z",
-      "pushed_at": "2026-05-29T02:59:11Z",
+      "pushed_at": "2026-05-30T02:58:43Z",
       "git_url": "git://github.com/vitorhugo-java/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-java/portifolio",
       "homepage": "http://hugojava.dev/",
-      "size": 609,
+      "size": 615,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -2243,14 +2243,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:28:08Z",
-      "updated_at": "2026-05-29T14:02:19Z",
-      "pushed_at": "2026-05-29T14:01:15Z",
+      "updated_at": "2026-05-30T13:10:57Z",
+      "pushed_at": "2026-05-30T13:10:53Z",
       "git_url": "git://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker",
       "homepage": "",
-      "size": 3759,
+      "size": 3768,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Java",
@@ -2434,6 +2434,136 @@
   ],
   "events": [
     {
+      "id": "12582972328",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 34872571452,
+        "ref": "refs/heads/main",
+        "head": "d0a0952a7d344636718603e8b278c89bac580f5e",
+        "before": "c773bf189f05046806691b0bcd6e72ad312f173f"
+      },
+      "public": true,
+      "created_at": "2026-05-30T13:10:54Z"
+    },
+    {
+      "id": "12572318743",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 34861902824,
+        "ref": "refs/heads/main",
+        "head": "c773bf189f05046806691b0bcd6e72ad312f173f",
+        "before": "64530ce47d71789f4d1441f8e6acf5b7c2566e40"
+      },
+      "public": true,
+      "created_at": "2026-05-30T04:24:38Z"
+    },
+    {
+      "id": "12572053208",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 34861637309,
+        "ref": "refs/heads/main",
+        "head": "64530ce47d71789f4d1441f8e6acf5b7c2566e40",
+        "before": "2dea6777115c95f5fce5fef9b48152f916862caa"
+      },
+      "public": true,
+      "created_at": "2026-05-30T04:10:14Z"
+    },
+    {
+      "id": "12571391363",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 34860974673,
+        "ref": "refs/heads/main",
+        "head": "2dea6777115c95f5fce5fef9b48152f916862caa",
+        "before": "57b08380482a1ad4a634fe0d75f836b307f3685d"
+      },
+      "public": true,
+      "created_at": "2026-05-30T03:37:40Z"
+    },
+    {
+      "id": "12571015239",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 34860598134,
+        "ref": "refs/heads/main",
+        "head": "57b08380482a1ad4a634fe0d75f836b307f3685d",
+        "before": "6224a7573bd5d1ba3b7fb29e81eb99fbc46f1827"
+      },
+      "public": true,
+      "created_at": "2026-05-30T03:18:44Z"
+    },
+    {
       "id": "12545216393",
       "type": "DeleteEvent",
       "actor": {
@@ -2560,340 +2690,9 @@
       },
       "public": true,
       "created_at": "2026-05-29T11:50:57Z"
-    },
-    {
-      "id": "12539665537",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "ref": "copilot/add-isolated-oauth-support",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/copilot/add-isolated-oauth-support",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-05-29T11:50:33Z"
-    },
-    {
-      "id": "12539664029",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209539905,
-        "push_id": 34829397395,
-        "ref": "refs/heads/copilot/add-oauth2-integration-gpt-actions",
-        "head": "e6957a138b7df0f311bdd50a05884e93232b7fa5",
-        "before": "0f88b84d343d90fd1dc74ec04309af8782779a7e"
-      },
-      "public": true,
-      "created_at": "2026-05-29T11:50:30Z"
-    },
-    {
-      "id": "10045817751",
-      "type": "IssueCommentEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "created",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/38",
-          "repository_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/38/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/38/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/38/events",
-          "html_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/38",
-          "id": 4545226476,
-          "node_id": "PR_kwDOSBgdQc7gekWY",
-          "number": 38,
-          "title": "Add isolated OAuth 2.0 + PKCE support for GPT Actions",
-          "user": {
-            "login": "Copilot",
-            "id": 198982749,
-            "node_id": "BOT_kgDOC9w8XQ",
-            "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Copilot",
-            "html_url": "https://github.com/apps/copilot-swe-agent",
-            "followers_url": "https://api.github.com/users/Copilot/followers",
-            "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
-            "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
-            "organizations_url": "https://api.github.com/users/Copilot/orgs",
-            "repos_url": "https://api.github.com/users/Copilot/repos",
-            "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/Copilot/received_events",
-            "type": "Bot",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [
-            {
-              "id": 10682272884,
-              "node_id": "LA_kwDOSBgdQc8AAAACfLaMdA",
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/labels/documentation",
-              "name": "documentation",
-              "color": "0075ca",
-              "default": true,
-              "description": "Improvements or additions to documentation"
-            },
-            {
-              "id": 10783125550,
-              "node_id": "LA_kwDOSBgdQc8AAAACgrlwLg",
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/labels/backend",
-              "name": "backend",
-              "color": "ededed",
-              "default": false,
-              "description": null
-            },
-            {
-              "id": 10864871793,
-              "node_id": "LA_kwDOSBgdQc8AAAACh5jJcQ",
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/labels/tests",
-              "name": "tests",
-              "color": "ededed",
-              "default": false,
-              "description": null
-            },
-            {
-              "id": 10864871798,
-              "node_id": "LA_kwDOSBgdQc8AAAACh5jJdg",
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/labels/database",
-              "name": "database",
-              "color": "ededed",
-              "default": false,
-              "description": null
-            },
-            {
-              "id": 10864871801,
-              "node_id": "LA_kwDOSBgdQc8AAAACh5jJeQ",
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/labels/configuration",
-              "name": "configuration",
-              "color": "ededed",
-              "default": false,
-              "description": null
-            }
-          ],
-          "state": "closed",
-          "locked": false,
-          "assignees": [
-            {
-              "login": "vitorhugo-java",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-java",
-              "html_url": "https://github.com/vitorhugo-java",
-              "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            {
-              "login": "Copilot",
-              "id": 198982749,
-              "node_id": "BOT_kgDOC9w8XQ",
-              "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/Copilot",
-              "html_url": "https://github.com/apps/copilot-swe-agent",
-              "followers_url": "https://api.github.com/users/Copilot/followers",
-              "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
-              "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
-              "organizations_url": "https://api.github.com/users/Copilot/orgs",
-              "repos_url": "https://api.github.com/users/Copilot/repos",
-              "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/Copilot/received_events",
-              "type": "Bot",
-              "user_view_type": "public",
-              "site_admin": false
-            }
-          ],
-          "milestone": null,
-          "comments": 3,
-          "created_at": "2026-05-29T02:33:57Z",
-          "updated_at": "2026-05-29T11:56:59Z",
-          "closed_at": "2026-05-29T11:50:56Z",
-          "assignee": null,
-          "active_lock_reason": null,
-          "draft": false,
-          "pull_request": {
-            "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/pulls/38",
-            "html_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/38",
-            "diff_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/38.diff",
-            "patch_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/38.patch",
-            "merged_at": "2026-05-29T11:50:56Z"
-          },
-          "body": "This PR adds a dedicated OAuth 2.0 Authorization Code flow with PKCE for GPT Actions, without changing the existing JWT-based user auth or the separate Google Drive OAuth integration. It introduces scoped GPT access, explicit user binding, and GPT-oriented API surfaces that reuse the current per-user authorization model.\n\n- **OAuth flow for GPT Actions**\n  - adds `/oauth2/authorize` and `/oauth2/token` for a dedicated GPT client\n  - validates configured client ID/secret, allowed redirect URIs, requested scopes, and PKCE `S256`\n  - persists short-lived authorization codes server-side and exchanges them for signed bearer tokens\n\n- **Isolated security model**\n  - adds a separate security chain for `/oauth2/**` and `/api/v1/gpt/**`\n  - keeps the existing JWT web flow unchanged for `/api/v1/**`\n  - issues GPT tokens with explicit `scope`, `roles`, `user_id`, `aud`, `iss`, and `token_use` claims\n  - maps GPT bearer tokens back into the existing Spring Security context so `SecurityUtils` and repository-level user isolation continue to work\n\n- **GPT-scoped API surface**\n  - adds `/api/v1/gpt/**` endpoints for profile, applications, resumes, Google Drive status, and metrics\n  - enforces least-privilege scope checks such as `read:profile`, `read:applications`, and `write:applications`\n  - preserves existing role constraints where they already matter, e.g. Google Drive and resume endpoints still require `BETA`\n\n- **Config and docs**\n  - adds env-driven GPT OAuth configuration:\n    - `OPENAI_GPT_CLIENT_ID`\n    - `OPENAI_GPT_CLIENT_SECRET`\n    - `OPENAI_GPT_REDIRECT_URIS`\n    - `OPENAI_GPT_SCOPES`\n  - updates OpenAPI with an OAuth2 authorization-code security scheme and a GPT Actions group\n  - documents GPT Action setup and the new auth flow in `README.md`\n  - updates `application.yml`, `application-test.yml`, and `.env.example`\n\n- **Persistence and regression coverage**\n  - adds a migration for GPT authorization-code storage\n  - adds tests for config loading, code exchange/token issuance, GPT-protected endpoint access, OpenAPI exposure, JWT regression, and Google Drive regression\n\nExample of the new GPT-side surface:\n\n```http\nGET /oauth2/authorize?response_type=code&client_id=...&redirect_uri=...&scope=read:profile%20read:applications&code_challenge=...&code_challenge_method=S256\nPOST /oauth2/token\nAuthorization: Basic <client credentials>\n\nGET /api/v1/gpt/profile\nAuthorization: ******\n```\n\nAnd the endpoint-level authorization remains explicit:\n\n```java\n@PreAuthorize(\"hasAuthority('SCOPE_write:applications')\")\n@PostMapping(\"/applications\")\npublic ResponseEntity<ApplicationResponse> createApplication(@Valid @RequestBody ApplicationRequest request) {\n    return ResponseEntity.status(HttpStatus.CREATED).body(applicationService.create(request));\n}\n```",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/38/reactions",
-            "total_count": 1,
-            "+1": 1,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/38/timeline",
-          "performed_via_github_app": null,
-          "state_reason": null
-        },
-        "comment": {
-          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/comments/4574252389",
-          "html_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/38#issuecomment-4574252389",
-          "issue_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/38",
-          "id": 4574252389,
-          "node_id": "IC_kwDOSBgdQc8AAAABEKWNZQ",
-          "user": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "created_at": "2026-05-29T11:11:55Z",
-          "updated_at": "2026-05-29T11:11:55Z",
-          "body": "@copilot Review and refactor it so GPT access reuses the existing API surface instead of duplicating controllers.\r\n\r\nContext:\r\n- The repository already exposes the needed resources in OpenAPI:\r\n  - /api/v1/auth/me\r\n  - /api/v1/applications\r\n  - /api/v1/google-drive/base-resumes\r\n  - /api/v1/google-drive/base-resumes/{resumeId}/content\r\n  - /api/v1/google-drive/applications/{applicationId}/generated-resumes/content\r\n  - /api/v1/google-drive/status\r\n- The current PR adds a separate /api/v1/gpt/** controller layer, which duplicates existing business endpoints and will create long-term maintenance drift.\r\n- The current PR also adds a dedicated GPT security chain for /oauth2/** and /api/v1/gpt/**, while the existing app security chain already handles the standard API.\r\n\r\nGoal:\r\nKeep the GPT OAuth 2.0 / PKCE auth server support, but remove the duplicated GPT-specific resource controllers. GPT should authenticate with its own OAuth token and call the existing endpoints directly, with authorization enforced by scopes + existing roles.\r\n\r\nRequired changes:\r\n\r\n1. Remove the GPT-specific controller surface:\r\n   - delete GptActionController\r\n   - remove /api/v1/gpt/** endpoints from the design\r\n   - do not create duplicate endpoints for profile, applications, resumes, or google-drive status\r\n\r\n2. Keep only the OAuth/auth pieces needed for GPT:\r\n   - /oauth2/authorize\r\n   - /oauth2/token\r\n   - JWK/JWT validation support if the implementation needs it\r\n   - GPT OAuth client registration/configuration\r\n   - PKCE, scopes, refresh token support\r\n\r\n3. Reuse the existing API endpoints for both JWT users and GPT tokens:\r\n   - /api/v1/auth/me\r\n   - /api/v1/applications\r\n   - /api/v1/applications/{id}\r\n   - /api/v1/applications/{id}/status\r\n   - /api/v1/google-drive/base-resumes\r\n   - /api/v1/google-drive/base-resumes/{resumeId}/content\r\n   - /api/v1/google-drive/applications/{applicationId}/generated-resumes/content\r\n   - /api/v1/google-drive/status\r\n\r\n4. Update authorization on the existing controllers/services so both identities work:\r\n   - human users continue using the current JWT auth\r\n   - GPT tokens use OAuth scopes\r\n   - use expressions like:\r\n     - hasRole('USER') or hasAuthority('SCOPE_read:applications')\r\n     - hasRole('USER') or hasAuthority('SCOPE_write:applications')\r\n   - keep BETA checks where they already matter for Google Drive / resume features\r\n\r\n5. Preserve user isolation:\r\n   - GPT auth must still resolve to the same existing User context\r\n   - do not bypass SecurityUtils\r\n   - do not introduce a second copy of the domain logic\r\n\r\n6. Update OpenAPI so it documents the existing endpoints with the OAuth2 security scheme instead of adding a parallel GPT controller section.\r\n   - add OAuth2 security scheme\r\n   - apply it to the existing endpoints\r\n   - do not create new GPT-only paths unless they are truly new functionality\r\n\r\n7. Keep the existing JWT security chain intact.\r\n   - If a separate OAuth security chain is needed, it should protect the OAuth endpoints and resource-server token validation, not duplicate application routes.\r\n   - Avoid overlapping /api/v1/gpt/** route matching.\r\n\r\n8. Update tests:\r\n   - verify the existing endpoints accept GPT OAuth tokens via scope-based authorization\r\n   - verify the existing JWT flow still works\r\n   - verify Google Drive and resume endpoints still work\r\n   - remove tests for duplicated /api/v1/gpt/** endpoints if they were added only because of the duplicated controller layer\r\n\r\nImplementation guidance:\r\n- Prefer changing annotations and security rules on the existing controllers over adding new controller classes.\r\n- If a helper facade is needed, keep it thin and reuse the current services.\r\n- The final design should be:\r\n  - one resource API surface\r\n  - two authentication modes\r\n  - authorization decided by roles/scopes\r\n  - no duplicate business endpoints\r\n  - document endpoints\r\n  - all existing and news tests must pass\r\n\r\nDeliver a cleanup PR that removes the duplicated GPT controller layer and keeps only the OAuth integration + scope-based access on the existing API.",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/comments/4574252389/reactions",
-            "total_count": 1,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 1
-          },
-          "performed_via_github_app": null
-        }
-      },
-      "public": true,
-      "created_at": "2026-05-29T11:11:55Z"
-    },
-    {
-      "id": "12519022764",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209539905,
-        "push_id": 34808755451,
-        "ref": "refs/heads/main",
-        "head": "e24e260184e20989575b74f8390dcedad1f950a2",
-        "before": "5ff58adec7af1188fdc69330254a16190f304501"
-      },
-      "public": true,
-      "created_at": "2026-05-29T01:33:03Z"
-    },
-    {
-      "id": "12518757067",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209539905,
-        "push_id": 34808489785,
-        "ref": "refs/heads/main",
-        "head": "5ff58adec7af1188fdc69330254a16190f304501",
-        "before": "07a2a51afc0155a4ce95ab6a28851b8a09bfbc23"
-      },
-      "public": true,
-      "created_at": "2026-05-29T01:22:22Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-05-31",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-06-01",
       "count": 0,
@@ -4591,8 +4390,8 @@
     },
     {
       "date": "2026-05-06",
-      "count": 12,
-      "level": 4
+      "count": 7,
+      "level": 3
     },
     {
       "date": "2026-05-07",
@@ -4711,9 +4510,14 @@
     },
     {
       "date": "2026-05-30",
+      "count": 5,
+      "level": 2
+    },
+    {
+      "date": "2026-05-31",
       "count": 0,
       "level": 0
     }
   ],
-  "generatedAt": "2026-05-30T01:36:52.513Z"
+  "generatedAt": "2026-05-31T01:41:59.339Z"
 }
