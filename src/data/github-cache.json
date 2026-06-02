@@ -104,13 +104,13 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
       "updated_at": "2026-05-13T13:28:45Z",
-      "pushed_at": "2026-05-31T02:59:32Z",
+      "pushed_at": "2026-06-01T23:19:26Z",
       "git_url": "git://github.com/vitorhugo-java/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-java/portifolio",
       "homepage": "http://hugojava.dev/",
-      "size": 617,
+      "size": 621,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -124,7 +124,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 0,
+      "open_issues_count": 1,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -134,7 +134,7 @@
       "topics": [],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 0,
+      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -2243,14 +2243,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:28:08Z",
-      "updated_at": "2026-05-31T16:14:53Z",
-      "pushed_at": "2026-05-31T17:00:14Z",
+      "updated_at": "2026-06-02T01:29:23Z",
+      "pushed_at": "2026-06-02T01:29:19Z",
       "git_url": "git://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker",
       "homepage": "",
-      "size": 3794,
+      "size": 3877,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Java",
@@ -2264,7 +2264,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 2,
+      "open_issues_count": 1,
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -2293,7 +2293,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 2,
+      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -2434,7 +2434,7 @@
   ],
   "events": [
     {
-      "id": "12617628772",
+      "id": "12684656649",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2451,16 +2451,16 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 34907255476,
+        "push_id": 34974301947,
         "ref": "refs/heads/main",
-        "head": "eb605bdd018f99262c762a7911568b9e42add9a6",
-        "before": "d0a0952a7d344636718603e8b278c89bac580f5e"
+        "head": "da34e24a045f6644a7c4a67e6df226f356dc756b",
+        "before": "77b4c858ea2184e7d4a84d1efbeaac8ad46f3f22"
       },
       "public": true,
-      "created_at": "2026-05-31T16:14:49Z"
+      "created_at": "2026-06-02T01:29:20Z"
     },
     {
-      "id": "12582972328",
+      "id": "12684579647",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2477,16 +2477,16 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 34872571452,
+        "push_id": 34974224874,
         "ref": "refs/heads/main",
-        "head": "d0a0952a7d344636718603e8b278c89bac580f5e",
-        "before": "c773bf189f05046806691b0bcd6e72ad312f173f"
+        "head": "77b4c858ea2184e7d4a84d1efbeaac8ad46f3f22",
+        "before": "0c2ecb2c2d2cb5591e807c099a84157d862c04ef"
       },
       "public": true,
-      "created_at": "2026-05-30T13:10:54Z"
+      "created_at": "2026-06-02T01:26:26Z"
     },
     {
-      "id": "12572318743",
+      "id": "12683155010",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2503,16 +2503,16 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 34861902824,
+        "push_id": 34972799965,
         "ref": "refs/heads/main",
-        "head": "c773bf189f05046806691b0bcd6e72ad312f173f",
-        "before": "64530ce47d71789f4d1441f8e6acf5b7c2566e40"
+        "head": "0c2ecb2c2d2cb5591e807c099a84157d862c04ef",
+        "before": "8372253d24876deac4c7b727b74664fad81e458b"
       },
       "public": true,
-      "created_at": "2026-05-30T04:24:38Z"
+      "created_at": "2026-06-02T00:34:45Z"
     },
     {
-      "id": "12572053208",
+      "id": "12683117388",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2529,16 +2529,16 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 34861637309,
+        "push_id": 34972762271,
         "ref": "refs/heads/main",
-        "head": "64530ce47d71789f4d1441f8e6acf5b7c2566e40",
-        "before": "2dea6777115c95f5fce5fef9b48152f916862caa"
+        "head": "8372253d24876deac4c7b727b74664fad81e458b",
+        "before": "8deb42bbd09f77ef2f2753c50a693278e28bc839"
       },
       "public": true,
-      "created_at": "2026-05-30T04:10:14Z"
+      "created_at": "2026-06-02T00:33:20Z"
     },
     {
-      "id": "12571391363",
+      "id": "12682814776",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2555,16 +2555,16 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 34860974673,
+        "push_id": 34972459687,
         "ref": "refs/heads/main",
-        "head": "2dea6777115c95f5fce5fef9b48152f916862caa",
-        "before": "57b08380482a1ad4a634fe0d75f836b307f3685d"
+        "head": "8deb42bbd09f77ef2f2753c50a693278e28bc839",
+        "before": "091c384ca24361b6af5d701467b066962e01a437"
       },
       "public": true,
-      "created_at": "2026-05-30T03:37:40Z"
+      "created_at": "2026-06-02T00:22:14Z"
     },
     {
-      "id": "12571015239",
+      "id": "12681752395",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2581,41 +2581,16 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 34860598134,
+        "push_id": 34971398120,
         "ref": "refs/heads/main",
-        "head": "57b08380482a1ad4a634fe0d75f836b307f3685d",
-        "before": "6224a7573bd5d1ba3b7fb29e81eb99fbc46f1827"
+        "head": "091c384ca24361b6af5d701467b066962e01a437",
+        "before": "f9cff3348f6085666f605580465ff98274780434"
       },
       "public": true,
-      "created_at": "2026-05-30T03:18:44Z"
+      "created_at": "2026-06-01T23:45:43Z"
     },
     {
-      "id": "12545216393",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "ref": "copilot/fix-oauth-flow-issues",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/copilot/fix-oauth-flow-issues",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-05-29T14:01:16Z"
-    },
-    {
-      "id": "12545214278",
+      "id": "12681713167",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2632,16 +2607,16 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 34834939399,
+        "push_id": 34971358876,
         "ref": "refs/heads/main",
-        "head": "6224a7573bd5d1ba3b7fb29e81eb99fbc46f1827",
-        "before": "b6bdb6d5aff4e26f8622523364df0dcb7cb5eaa0"
+        "head": "f9cff3348f6085666f605580465ff98274780434",
+        "before": "1c0aafe65e68ae44cd0bee9b34803f6dceb10546"
       },
       "public": true,
-      "created_at": "2026-05-29T14:01:14Z"
+      "created_at": "2026-06-01T23:44:22Z"
     },
     {
-      "id": "12541979215",
+      "id": "12681632882",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2658,17 +2633,17 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 34831710849,
+        "push_id": 34971278599,
         "ref": "refs/heads/main",
-        "head": "b6bdb6d5aff4e26f8622523364df0dcb7cb5eaa0",
-        "before": "162fcf9c3e4ac3cece01c3413c6a9b7430895def"
+        "head": "1c0aafe65e68ae44cd0bee9b34803f6dceb10546",
+        "before": "619ef94472c964319a804aeaf4273b28bb1ac1cd"
       },
       "public": true,
-      "created_at": "2026-05-29T12:48:19Z"
+      "created_at": "2026-06-01T23:41:41Z"
     },
     {
-      "id": "12539682469",
-      "type": "DeleteEvent",
+      "id": "12681572928",
+      "type": "PushEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-java",
@@ -2683,21 +2658,43 @@
         "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "ref": "copilot/add-oauth2-integration-gpt-actions",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/copilot/add-oauth2-integration-gpt-actions",
-        "pusher_type": "user"
+        "repository_id": 1209539905,
+        "push_id": 34971218657,
+        "ref": "refs/heads/main",
+        "head": "619ef94472c964319a804aeaf4273b28bb1ac1cd",
+        "before": "1d594470291e2b1d6ab5ff3ef2fe5f5a28c21518"
       },
       "public": true,
-      "created_at": "2026-05-29T11:50:59Z"
+      "created_at": "2026-06-01T23:39:46Z"
+    },
+    {
+      "id": "12681561676",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 34971207396,
+        "ref": "refs/heads/main",
+        "head": "1d594470291e2b1d6ab5ff3ef2fe5f5a28c21518",
+        "before": "dc67cafa70e31fc9253d6b8cea4996f55360e621"
+      },
+      "public": true,
+      "created_at": "2026-06-01T23:39:21Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-06-02",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-06-03",
       "count": 0,
@@ -4385,13 +4382,13 @@
     },
     {
       "date": "2026-05-06",
-      "count": 6,
-      "level": 3
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-05-07",
-      "count": 30,
-      "level": 4
+      "count": 4,
+      "level": 2
     },
     {
       "date": "2026-05-08",
@@ -4515,9 +4512,14 @@
     },
     {
       "date": "2026-06-01",
-      "count": 0,
-      "level": 0
+      "count": 27,
+      "level": 4
+    },
+    {
+      "date": "2026-06-02",
+      "count": 5,
+      "level": 2
     }
   ],
-  "generatedAt": "2026-06-01T01:46:04.638Z"
+  "generatedAt": "2026-06-02T01:49:23.971Z"
 }
