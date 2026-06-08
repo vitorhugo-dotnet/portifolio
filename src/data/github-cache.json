@@ -36,6 +36,116 @@
   },
   "repos": [
     {
+      "id": 1221324149,
+      "node_id": "R_kgDOSMvtdQ",
+      "name": "finance-tracker-services",
+      "full_name": "vitorhugo-java/finance-tracker-services",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-java",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "html_url": "https://github.com/vitorhugo-java",
+        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-java/finance-tracker-services",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services",
+      "forks_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/deployments",
+      "created_at": "2026-04-26T03:37:39Z",
+      "updated_at": "2026-06-08T00:38:01Z",
+      "pushed_at": "2026-06-08T00:37:58Z",
+      "git_url": "git://github.com/vitorhugo-java/finance-tracker-services.git",
+      "ssh_url": "git@github.com:vitorhugo-java/finance-tracker-services.git",
+      "clone_url": "https://github.com/vitorhugo-java/finance-tracker-services.git",
+      "svn_url": "https://github.com/vitorhugo-java/finance-tracker-services",
+      "homepage": "",
+      "size": 166,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Java",
+      "has_issues": false,
+      "has_projects": false,
+      "has_downloads": true,
+      "has_wiki": false,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": false,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "master",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
       "id": 1189545274,
       "node_id": "R_kgDORucFOg",
       "name": "portifolio",
@@ -104,13 +214,13 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
       "updated_at": "2026-05-13T13:28:45Z",
-      "pushed_at": "2026-06-06T02:58:48Z",
+      "pushed_at": "2026-06-07T02:59:25Z",
       "git_url": "git://github.com/vitorhugo-java/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-java/portifolio",
       "homepage": "http://hugojava.dev/",
-      "size": 636,
+      "size": 570,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -520,116 +630,6 @@
       "open_issues": 0,
       "watchers": 0,
       "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1221324149,
-      "node_id": "R_kgDOSMvtdQ",
-      "name": "finance-tracker-services",
-      "full_name": "vitorhugo-java/finance-tracker-services",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-java",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "html_url": "https://github.com/vitorhugo-java",
-        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-java/finance-tracker-services",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services",
-      "forks_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services/deployments",
-      "created_at": "2026-04-26T03:37:39Z",
-      "updated_at": "2026-05-27T02:46:06Z",
-      "pushed_at": "2026-05-27T02:46:02Z",
-      "git_url": "git://github.com/vitorhugo-java/finance-tracker-services.git",
-      "ssh_url": "git@github.com:vitorhugo-java/finance-tracker-services.git",
-      "clone_url": "https://github.com/vitorhugo-java/finance-tracker-services.git",
-      "svn_url": "https://github.com/vitorhugo-java/finance-tracker-services",
-      "homepage": "",
-      "size": 163,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "Java",
-      "has_issues": false,
-      "has_projects": false,
-      "has_downloads": true,
-      "has_wiki": false,
-      "has_pages": false,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 0,
-      "license": null,
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": false,
-      "pull_request_creation_policy": "all",
-      "topics": [],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 0,
-      "watchers": 0,
-      "default_branch": "master",
       "permissions": {
         "admin": false,
         "maintain": false,
@@ -2259,14 +2259,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:28:08Z",
-      "updated_at": "2026-06-06T14:57:38Z",
-      "pushed_at": "2026-06-06T14:57:37Z",
+      "updated_at": "2026-06-07T18:23:05Z",
+      "pushed_at": "2026-06-07T18:23:01Z",
       "git_url": "git://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker",
       "homepage": "",
-      "size": 3884,
+      "size": 3887,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Java",
@@ -2449,6 +2449,84 @@
     }
   ],
   "events": [
+    {
+      "id": "12965334777",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1221324149,
+        "name": "vitorhugo-java/finance-tracker-services",
+        "url": "https://api.github.com/repos/vitorhugo-java/finance-tracker-services"
+      },
+      "payload": {
+        "repository_id": 1221324149,
+        "push_id": 35255031433,
+        "ref": "refs/heads/master",
+        "head": "3ecb10808b42df7d35a7fba9ac58864bc3c7606f",
+        "before": "e95bcabfb35914179b9d8c1e056d45ed0b15f309"
+      },
+      "public": true,
+      "created_at": "2026-06-08T00:37:58Z"
+    },
+    {
+      "id": "12956806870",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 35246497005,
+        "ref": "refs/heads/main",
+        "head": "f21653af0fdcd69ec1ba9b170157af6fc74fa85d",
+        "before": "9dd0c50d2d04cb24a01a94e98f0a095259798812"
+      },
+      "public": true,
+      "created_at": "2026-06-07T18:23:02Z"
+    },
+    {
+      "id": "12935282403",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 35224965173,
+        "ref": "refs/heads/main",
+        "head": "9dd0c50d2d04cb24a01a94e98f0a095259798812",
+        "before": "ef815fbc169913ab70b1eaa796bd290412ea7ab5"
+      },
+      "public": true,
+      "created_at": "2026-06-07T02:19:08Z"
+    },
     {
       "id": "12920357592",
       "type": "DeleteEvent",
@@ -2668,152 +2746,9 @@
       },
       "public": true,
       "created_at": "2026-06-06T14:29:52Z"
-    },
-    {
-      "id": "10360658766",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "closed",
-        "number": 51,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/pulls/51",
-          "id": 3815995969,
-          "number": 51,
-          "head": {
-            "ref": "claude/gracious-heisenberg-mPVKN",
-            "sha": "9359c746c39a227386b450ad53634c05dada4709",
-            "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "689c3f8a854234772435d9e86054422e1d0e0267",
-            "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-06-06T14:29:41Z"
-    },
-    {
-      "id": "10360655754",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "opened",
-        "number": 51,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/pulls/51",
-          "id": 3815995969,
-          "number": 51,
-          "head": {
-            "ref": "claude/gracious-heisenberg-mPVKN",
-            "sha": "9359c746c39a227386b450ad53634c05dada4709",
-            "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "689c3f8a854234772435d9e86054422e1d0e0267",
-            "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-06-06T14:29:41Z"
-    },
-    {
-      "id": "10360650530",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "closed",
-        "number": 50,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/pulls/50",
-          "id": 3815994097,
-          "number": 50,
-          "head": {
-            "ref": "copilot/fix-e2e-integration-issue",
-            "sha": "8da213194077827ecc5e43a1ab40f23b436c87e5",
-            "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "689c3f8a854234772435d9e86054422e1d0e0267",
-            "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-06-06T14:29:21Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-06-08",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-06-09",
       "count": 0,
@@ -4571,7 +4506,7 @@
     },
     {
       "date": "2026-05-26",
-      "count": 15,
+      "count": 12,
       "level": 4
     },
     {
@@ -4631,9 +4566,14 @@
     },
     {
       "date": "2026-06-07",
-      "count": 0,
-      "level": 0
+      "count": 2,
+      "level": 1
+    },
+    {
+      "date": "2026-06-08",
+      "count": 1,
+      "level": 1
     }
   ],
-  "generatedAt": "2026-06-07T01:44:01.515Z"
+  "generatedAt": "2026-06-08T01:46:23.090Z"
 }
