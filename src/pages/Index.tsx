@@ -1,4 +1,5 @@
 import HeroSection from "@/components/HeroSection";
+import ExpertiseSection from "@/components/ExpertiseSection";
 import PinnedReposSection from "@/components/PinnedReposSection";
 import ContributionHeatmap from "@/components/ContributionHeatmap";
 import ReposSection from "@/components/ReposSection";
@@ -19,6 +20,7 @@ const Index = () => {
 
       <div className="relative z-10">
         <HeroSection />
+        <ExpertiseSection />
         <PinnedReposSection />
         <ContributionHeatmap />
         <ReposSection />
@@ -28,7 +30,7 @@ const Index = () => {
         <footer className="py-10 text-center border-t border-border">
           <p className="text-muted-foreground text-sm font-mono flex items-center justify-center gap-2">
             <Github className="w-4 h-4" />
-            Built with data from GitHub API
+            Built with React, TypeScript and GitHub data
           </p>
         </footer>
       </div>
