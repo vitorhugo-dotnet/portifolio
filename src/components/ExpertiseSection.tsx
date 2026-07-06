@@ -20,7 +20,7 @@ const EXPERTISE_AREAS = [
   {
     title: "Production Mindset",
     description:
-      "Base sólida em Java/Spring, sistemas críticos e DevOps aplicada agora ao ecossistema .NET sem reinventar roda quadrada.",
+      "Base sólida em Java/Spring, sistemas críticos e DevOps aplicada ao ecossistema .NET com foco em entrega, manutenção e escalabilidade.",
     items: ["Clean Architecture", "Security", "Cloud", "Automation"],
   },
 ];
