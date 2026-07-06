@@ -1,45 +1,82 @@
-# Vitor Hugo | C# .NET Full Stack Developer
+# Portfolio
 
-Portfolio pessoal focado no posicionamento profissional em **C#**, **.NET**, **ASP.NET Core** e **React**, destacando experiência Full Stack, backend engineering, DevOps e construção de sistemas web escaláveis.
+Personal portfolio built with **Vite + React + TypeScript**, styled with **Tailwind CSS**, and using **shadcn/ui** components.
 
-## Posicionamento
+## Overview
 
-Desenvolvedor Full Stack com base sólida em Java/Spring e foco atual no ecossistema **.NET**, aplicando experiência com APIs REST, bancos de dados, autenticação, Docker, CI/CD e sistemas críticos em soluções modernas com C#, ASP.NET Core e React.
+This project presents GitHub-powered portfolio sections (hero, pinned repositories, activity, contribution heatmap, and contact) plus a small **Hub** page that centralizes internal and external links.
 
-## Stack principal
+## Tech stack
 
-- C#
-- .NET
-- ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- React
+- React 18
 - TypeScript
-- Docker
-- CI/CD
+- Vite
+- React Router
+- Tailwind CSS
+- shadcn/ui
+- TanStack Query
+- Vitest + Testing Library
 
-## Stack complementar
+## Getting started
 
-- Java / Spring Boot
-- REST APIs
-- MySQL / PostgreSQL
-- MongoDB
-- Cloudflare / VPS
-- GitHub Actions
+### Prerequisites
 
-## Rodando localmente
+- Node.js 18+ (recommended LTS)
+- npm
+
+### Install dependencies
 
 ```bash
 npm install
+```
+
+> If your npm version reports peer dependency resolution issues, run:
+>
+> ```bash
+> npm install --legacy-peer-deps
+> ```
+
+### Start development server
+
+```bash
 npm run dev
 ```
 
-## Build
+### Production build and preview
 
 ```bash
 npm run build
+npm run preview
 ```
 
-## Objetivo do projeto
+## Available scripts
 
-Servir como vitrine técnica e profissional para oportunidades Full Stack com foco em **C#/.NET**, mantendo a experiência anterior em Java/Spring como base transferível para arquitetura, backend engineering e entrega em produção.
+- `npm run dev` — start local development server
+- `npm run build` — generate production bundle
+- `npm run build:dev` — generate development-mode bundle
+- `npm run preview` — preview the production build
+- `npm run lint` — run ESLint
+- `npm run test` — run tests once with Vitest
+- `npm run test:watch` — run Vitest in watch mode
+
+## Main routes
+
+- `/` — portfolio homepage
+- `/hub` — hub with quick links
+- `/privacy-policy` — privacy policy template page
+
+## Project structure (high level)
+
+```text
+src/
+  components/      # reusable UI and feature components
+  pages/           # route-level pages
+  hooks/           # custom React hooks
+  data/            # cached/static data used by the app
+  lib/             # utility helpers
+```
+
+## Notes
+
+- The project uses `BrowserRouter` with `basename={import.meta.env.BASE_URL}` to support deployments under subpaths.
+- Some lint issues may pre-exist in files unrelated to current feature pages/components.
