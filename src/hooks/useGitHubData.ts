@@ -58,6 +58,29 @@ interface GitHubCache {
   generatedAt: string;
 }
 
+const LEGACY_PORTFOLIO_DOMAIN = "hugojava.dev";
+const CURRENT_PORTFOLIO_DOMAIN = "hugodotnet.dev";
+
+const replacePortfolioDomain = (value: string | null): string | null =>
+  value === null
+    ? null
+    : value.split(LEGACY_PORTFOLIO_DOMAIN).join(CURRENT_PORTFOLIO_DOMAIN);
+
+const normalizeRepoDomain = (repo: GitHubRepo): GitHubRepo => ({
+  ...repo,
+  homepage: replacePortfolioDomain(repo.homepage),
+});
+
+const normalizeCacheDomains = (cache: GitHubCache): GitHubCache => ({
+  ...cache,
+  user: {
+    ...cache.user,
+    blog: replacePortfolioDomain(cache.user.blog) ?? "",
+  },
+  repos: cache.repos.map(normalizeRepoDomain),
+  pinnedRepos: cache.pinnedRepos.map(normalizeRepoDomain),
+});
+
 const isRecord = (value: unknown): value is Record<string, unknown> =>
   typeof value === "object" && value !== null;
 
@@ -95,7 +118,7 @@ const parseGitHubCache = (value: unknown): GitHubCache => {
 
 // All data is served from the pre-fetched cache committed to the repository.
 // The cache is refreshed daily by the update-github-data GitHub Actions workflow.
-const githubCache = parseGitHubCache(rawCache);
+const githubCache = normalizeCacheDomains(parseGitHubCache(rawCache));
 
 export const useGitHubUser = () =>
   useQuery({
