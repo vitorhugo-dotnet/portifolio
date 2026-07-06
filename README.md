@@ -42,4 +42,4 @@ npm run build
 
 ## Objetivo do projeto
 
-Servir como vitrine técnica e profissional para oportunidades Full Stack com foco em **C#/.NET**, sem esconder a experiência anterior em Java, porque experiência transferível existe, apesar do mercado fingir que cada stack é uma religião separada.
+Servir como vitrine técnica e profissional para oportunidades Full Stack com foco em **C#/.NET**, mantendo a experiência anterior em Java/Spring como base transferível para arquitetura, backend engineering e entrega em produção.
