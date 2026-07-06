@@ -7,6 +7,8 @@ const OTHER_REPOS_COUNT = 10;
 const EVENT_PAGES = 3;
 const EVENTS_PER_PAGE = 100;
 const ACTIVITY_EVENTS = 10;
+const LEGACY_PORTFOLIO_DOMAIN = "hugojava.dev";
+const CURRENT_PORTFOLIO_DOMAIN = "hugodotnet.dev";
 
 interface GitHubUser {
   login: string;
@@ -175,6 +177,26 @@ async function fetchContributions(): Promise<DayData[]> {
   return days;
 }
 
+function replacePortfolioDomain(value: string | null): string | null {
+  return value === null
+    ? null
+    : value.split(LEGACY_PORTFOLIO_DOMAIN).join(CURRENT_PORTFOLIO_DOMAIN);
+}
+
+function normalizeRepoDomain(repo: GitHubRepo): GitHubRepo {
+  return {
+    ...repo,
+    homepage: replacePortfolioDomain(repo.homepage),
+  };
+}
+
+function normalizeUserDomain(user: GitHubUser): GitHubUser {
+  return {
+    ...user,
+    blog: replacePortfolioDomain(user.blog) ?? "",
+  };
+}
+
 async function main() {
   console.log("Fetching GitHub data for cache...");
 
@@ -214,10 +236,15 @@ async function main() {
     .filter((r) => !pinnedFullNames.has(r.full_name) && !recentFullNames.has(r.full_name))
     .slice(0, OTHER_REPOS_COUNT);
 
+  const normalizedUser = normalizeUserDomain(user);
+  const normalizedRecentRepos = recentRepos.map(normalizeRepoDomain);
+  const normalizedOtherRepos = otherRepos.map(normalizeRepoDomain);
+  const normalizedPinnedRepos = pinnedRepos.map(normalizeRepoDomain);
+
   const cache = {
-    user,
-    repos: [...recentRepos, ...otherRepos],
-    pinnedRepos,
+    user: normalizedUser,
+    repos: [...normalizedRecentRepos, ...normalizedOtherRepos],
+    pinnedRepos: normalizedPinnedRepos,
     events,
     contributions,
     generatedAt: new Date().toISOString(),
@@ -227,9 +254,9 @@ async function main() {
   fs.writeFileSync(cachePath, JSON.stringify(cache, null, 2));
 
   console.log(`✓ Wrote github-cache.json`);
-  console.log(`  User: ${user.name ?? user.login}`);
-  console.log(`  Repos: ${recentRepos.length} recent + ${otherRepos.length} other`);
-  console.log(`  Pinned repos: ${pinnedRepos.length}`);
+  console.log(`  User: ${normalizedUser.name ?? normalizedUser.login}`);
+  console.log(`  Repos: ${normalizedRecentRepos.length} recent + ${normalizedOtherRepos.length} other`);
+  console.log(`  Pinned repos: ${normalizedPinnedRepos.length}`);
   console.log(`  Events: ${events.length}`);
   console.log(`  Contributions: ${contributions.length} days (${countAllEvents(contributions)} total events)`);
 }
