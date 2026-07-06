@@ -1,6 +1,22 @@
 import { useGitHubUser } from "@/hooks/useGitHubData";
-import { MapPin, ExternalLink, BookOpen } from "lucide-react";
+import { MapPin, ExternalLink, BookOpen, Code2 } from "lucide-react";
 import { Skeleton } from "@/components/ui/skeleton";
+
+const ROLE_TITLE = "C# / .NET Full Stack Developer";
+
+const VALUE_PROPOSITION =
+  "Desenvolvedor Full Stack focado em C#, .NET, ASP.NET Core e React, com experiência em APIs REST, bancos de dados, Docker, CI/CD e sistemas críticos.";
+
+const STACK_BADGES = [
+  "C#",
+  ".NET",
+  "ASP.NET Core",
+  "Entity Framework Core",
+  "SQL Server",
+  "React",
+  "TypeScript",
+  "Docker",
+];
 
 const HeroSection = () => {
   const { data: user, isLoading } = useGitHubUser();
@@ -34,16 +50,31 @@ const HeroSection = () => {
           />
         </div>
 
-        <div className="flex-1 text-center md:text-left space-y-3">
+        <div className="flex-1 text-center md:text-left space-y-4">
           <p className="font-mono text-primary text-sm tracking-wider">
-            {">"} hello_world
+            {">"} building_dotnet_systems
           </p>
           <h1 className="text-4xl md:text-5xl font-bold font-heading text-gradient">
             {user.name || user.login}
           </h1>
-          {user.bio && (
-            <p className="text-secondary-foreground text-lg max-w-lg">{user.bio}</p>
-          )}
+          <p className="inline-flex items-center gap-2 font-mono text-sm text-primary">
+            <Code2 className="w-4 h-4" />
+            {ROLE_TITLE}
+          </p>
+          <p className="text-secondary-foreground text-lg max-w-2xl">
+            {VALUE_PROPOSITION}
+          </p>
+
+          <div className="flex flex-wrap gap-1.5 justify-center md:justify-start">
+            {STACK_BADGES.map((badge) => (
+              <span
+                key={badge}
+                className="px-2 py-0.5 text-xs font-mono rounded-md bg-secondary text-accent border border-border"
+              >
+                {badge}
+              </span>
+            ))}
+          </div>
 
           <div className="flex flex-wrap gap-4 justify-center md:justify-start pt-2">
             {user.location && (

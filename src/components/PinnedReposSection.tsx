@@ -12,7 +12,7 @@ const PinnedReposSection = () => {
         <div className="flex items-center gap-3 mb-10">
           <Pin className="w-4 h-4 text-primary" />
           <h2 className="text-2xl font-heading font-bold text-foreground">
-            Pinned Repositories
+            Featured Projects
           </h2>
           <div className="flex-1 h-px bg-border ml-4" />
         </div>
@@ -27,7 +27,7 @@ const PinnedReposSection = () => {
 
         {error && (
           <p className="text-destructive font-mono text-sm text-center py-10">
-            Failed to load pinned repositories.
+            Failed to load featured projects.
           </p>
         )}
 
