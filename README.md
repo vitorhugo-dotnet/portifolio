@@ -65,6 +65,15 @@ npm run preview
 - `/hub` — hub with quick links
 - `/privacy-policy` — portfolio privacy policy template page
 
+## SonicRelay Play Store routes
+
+- `/sonicrelay/privacy-policy` — public app-specific privacy policy for Google Play
+- `/sonicrelay/data-safety` — Google Play Data Safety notes for account, device, session, and signaling declarations
+- `/sonicrelay/play-listing` — Play listing draft, description, tags, and content notes
+- `/sonicrelay/app-access` — app access, permissions, ads declaration, target audience, and reviewer notes
+- `/sonicrelay/account-removal` — public account and app data removal request page
+- `/sonicrelay/support` — support contact, privacy requests, troubleshooting, and repository links
+
 ## The Universe Decides Play Store routes
 
 - `/the-universe-decides/privacy-policy` — public app-specific privacy policy for Google Play

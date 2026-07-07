@@ -7,6 +7,13 @@ import Index from "./pages/Index.tsx";
 import NotFound from "./pages/NotFound.tsx";
 import Hub from "./pages/Hub.tsx";
 import PrivacyPolicy from "./pages/PrivacyPolicy.tsx";
+import SonicRelayAccountRemoval from "./pages/SonicRelayAccountRemoval.tsx";
+import SonicRelayAppAccess from "./pages/SonicRelayAppAccess.tsx";
+import SonicRelayDataSafety from "./pages/SonicRelayDataSafety.tsx";
+import SonicRelayListing from "./pages/SonicRelayListing.tsx";
+import SonicRelayPlayConsoleChecklist from "./pages/SonicRelayPlayConsoleChecklist.tsx";
+import SonicRelayPrivacyPolicy from "./pages/SonicRelayPrivacyPolicy.tsx";
+import SonicRelaySupport from "./pages/SonicRelaySupport.tsx";
 import TheUniverseDecidesAppAccess from "./pages/TheUniverseDecidesAppAccess.tsx";
 import TheUniverseDecidesDataSafety from "./pages/TheUniverseDecidesDataSafety.tsx";
 import TheUniverseDecidesPrivacyPolicy from "./pages/TheUniverseDecidesPrivacyPolicy.tsx";
@@ -25,6 +32,34 @@ const App = () => (
           <Route path="/" element={<Index />} />
           <Route path="/hub" element={<Hub />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route
+            path="/sonicrelay/privacy-policy"
+            element={<SonicRelayPrivacyPolicy />}
+          />
+          <Route
+            path="/sonicrelay/data-safety"
+            element={<SonicRelayDataSafety />}
+          />
+          <Route
+            path="/sonicrelay/play-listing"
+            element={<SonicRelayListing />}
+          />
+          <Route
+            path="/sonicrelay/app-access"
+            element={<SonicRelayAppAccess />}
+          />
+          <Route
+            path="/sonicrelay/account-removal"
+            element={<SonicRelayAccountRemoval />}
+          />
+          <Route
+            path="/sonicrelay/support"
+            element={<SonicRelaySupport />}
+          />
+          <Route
+            path="/sonicrelay/play-console-checklist"
+            element={<SonicRelayPlayConsoleChecklist />}
+          />
           <Route
             path="/the-universe-decides/privacy-policy"
             element={<TheUniverseDecidesPrivacyPolicy />}
