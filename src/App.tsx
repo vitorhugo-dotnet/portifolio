@@ -11,6 +11,7 @@ import SonicRelayAccountRemoval from "./pages/SonicRelayAccountRemoval.tsx";
 import SonicRelayAppAccess from "./pages/SonicRelayAppAccess.tsx";
 import SonicRelayDataSafety from "./pages/SonicRelayDataSafety.tsx";
 import SonicRelayListing from "./pages/SonicRelayListing.tsx";
+import SonicRelayPlayConsoleChecklist from "./pages/SonicRelayPlayConsoleChecklist.tsx";
 import SonicRelayPrivacyPolicy from "./pages/SonicRelayPrivacyPolicy.tsx";
 import SonicRelaySupport from "./pages/SonicRelaySupport.tsx";
 import TheUniverseDecidesAppAccess from "./pages/TheUniverseDecidesAppAccess.tsx";
@@ -54,6 +55,10 @@ const App = () => (
           <Route
             path="/sonicrelay/support"
             element={<SonicRelaySupport />}
+          />
+          <Route
+            path="/sonicrelay/play-console-checklist"
+            element={<SonicRelayPlayConsoleChecklist />}
           />
           <Route
             path="/the-universe-decides/privacy-policy"
