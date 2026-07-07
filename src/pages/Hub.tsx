@@ -52,6 +52,13 @@ const hubItems = [
     isExternal: false,
   },
   {
+    title: "SonicRelay — Play Console Checklist",
+    description: "Release checklist with Play Console fields, public URLs, declarations, and blockers.",
+    path: "/sonicrelay/play-console-checklist",
+    icon: BookOpenText,
+    isExternal: false,
+  },
+  {
     title: "SonicRelay Flutter Repository",
     description: "Open the Android viewer repository used to prepare these publishing docs.",
     path: "https://github.com/vitorhugo-dotnet/flutter_SonicRelay",
