@@ -3,23 +3,9 @@ import HubCard from "@/components/HubCard";
 
 const hubItems = [
   {
-    title: "Portfolio Privacy Policy",
-    description: "Read how this portfolio handles and protects visitor data.",
-    path: "/privacy-policy",
-    icon: FileText,
-    isExternal: false,
-  },
-  {
     title: "SonicRelay — Privacy Policy",
     description: "Read how SonicRelay handles account, device, and connection data.",
     path: "/sonicrelay/privacy-policy",
-    icon: FileText,
-    isExternal: false,
-  },
-  {
-    title: "SonicRelay — Support",
-    description: "Find support contact details, troubleshooting, and privacy assistance.",
-    path: "/sonicrelay/support",
     icon: FileText,
     isExternal: false,
   },
@@ -46,7 +32,7 @@ const Hub = () => {
         <header className="mb-8">
           <h1 className="text-3xl font-bold tracking-tight">Hub</h1>
           <p className="mt-2 text-muted-foreground">
-            Privacy and support resources for the portfolio and published apps.
+            Privacy and support resources for published apps.
           </p>
         </header>
 
