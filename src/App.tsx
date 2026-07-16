@@ -7,7 +7,6 @@ import Index from "./pages/Index.tsx";
 import NotFound from "./pages/NotFound.tsx";
 import Hub from "./pages/Hub.tsx";
 import PrivacyPolicy from "./pages/PrivacyPolicy.tsx";
-import SonicRelayAccountRemoval from "./pages/SonicRelayAccountRemoval.tsx";
 import SonicRelayPrivacyPolicy from "./pages/SonicRelayPrivacyPolicy.tsx";
 import SonicRelaySupport from "./pages/SonicRelaySupport.tsx";
 import TheUniverseDecidesPrivacyPolicy from "./pages/TheUniverseDecidesPrivacyPolicy.tsx";
@@ -28,10 +27,6 @@ const App = () => (
           <Route
             path="/sonicrelay/privacy-policy"
             element={<SonicRelayPrivacyPolicy />}
-          />
-          <Route
-            path="/sonicrelay/account-removal"
-            element={<SonicRelayAccountRemoval />}
           />
           <Route
             path="/sonicrelay/support"
