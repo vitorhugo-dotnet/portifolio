@@ -8,7 +8,7 @@ const TheUniverseDecidesPrivacyPolicy = () => {
         <h1 className="mt-3 text-3xl font-bold tracking-tight md:text-4xl">
           Privacy Policy
         </h1>
-        <p className="mt-3 text-muted-foreground">Last updated: July 6, 2026</p>
+        <p className="mt-3 text-muted-foreground">Last updated: July 16, 2026</p>
 
         <div className="mt-8 space-y-8 text-muted-foreground">
           <section className="rounded-2xl border bg-card p-6 shadow-sm">
@@ -45,7 +45,7 @@ const TheUniverseDecidesPrivacyPolicy = () => {
           <section className="rounded-2xl border bg-card p-6 shadow-sm">
             <h2 className="text-2xl font-semibold text-foreground">Network usage</h2>
             <p className="mt-3 leading-7">
-              The app uses an internet connection only for app functionality:
+              The app uses an internet connection for the following functionality:
             </p>
             <ul className="mt-3 list-disc space-y-2 pl-6 leading-7">
               <li>
@@ -58,6 +58,11 @@ const TheUniverseDecidesPrivacyPolicy = () => {
                 GitHub API may be contacted over HTTPS on the About screen to load
                 the developer's public GitHub profile and avatar.
               </li>
+              <li>
+                The Buy Me a Coffee website may be opened when the user voluntarily
+                chooses to support the project. Opening this external service is not
+                required to use any app feature.
+              </li>
             </ul>
             <p className="mt-3 leading-7">
               Like any internet request, these third-party services may receive
@@ -65,6 +70,23 @@ const TheUniverseDecidesPrivacyPolicy = () => {
               timestamps, or similar connection data according to their own policies.
               The app does not add advertising identifiers, analytics identifiers,
               or user account identifiers to these requests.
+            </p>
+          </section>
+
+          <section className="rounded-2xl border bg-card p-6 shadow-sm">
+            <h2 className="text-2xl font-semibold text-foreground">Optional project support</h2>
+            <p className="mt-3 leading-7">
+              The app includes an optional link to the external Buy Me a Coffee service.
+              Contributions are voluntary and do not unlock digital content, remove
+              restrictions, or provide additional app functionality.
+            </p>
+            <p className="mt-3 leading-7">
+              Payments and any personal or payment information entered on Buy Me a Coffee
+              are processed by Buy Me a Coffee and its payment providers under their own
+              terms and privacy policies. The app does not process payments or receive
+              payment card details. Depending on the information supplied by the supporter
+              and the external service settings, Buy Me a Coffee may make limited supporter
+              details available to the developer.
             </p>
           </section>
 
