@@ -6,9 +6,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import Index from "./pages/Index.tsx";
 import NotFound from "./pages/NotFound.tsx";
 import Hub from "./pages/Hub.tsx";
-import PrivacyPolicy from "./pages/PrivacyPolicy.tsx";
 import SonicRelayPrivacyPolicy from "./pages/SonicRelayPrivacyPolicy.tsx";
-import SonicRelaySupport from "./pages/SonicRelaySupport.tsx";
 import TheUniverseDecidesPrivacyPolicy from "./pages/TheUniverseDecidesPrivacyPolicy.tsx";
 import TheUniverseDecidesSupport from "./pages/TheUniverseDecidesSupport.tsx";
 
@@ -23,14 +21,9 @@ const App = () => (
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/hub" element={<Hub />} />
-          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route
             path="/sonicrelay/privacy-policy"
             element={<SonicRelayPrivacyPolicy />}
-          />
-          <Route
-            path="/sonicrelay/support"
-            element={<SonicRelaySupport />}
           />
           <Route
             path="/the-universe-decides/privacy-policy"
