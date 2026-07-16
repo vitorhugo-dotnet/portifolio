@@ -8,7 +8,6 @@ import NotFound from "./pages/NotFound.tsx";
 import Hub from "./pages/Hub.tsx";
 import SonicRelayPrivacyPolicy from "./pages/SonicRelayPrivacyPolicy.tsx";
 import TheUniverseDecidesPrivacyPolicy from "./pages/TheUniverseDecidesPrivacyPolicy.tsx";
-import TheUniverseDecidesSupport from "./pages/TheUniverseDecidesSupport.tsx";
 
 const queryClient = new QueryClient();
 
@@ -28,10 +27,6 @@ const App = () => (
           <Route
             path="/the-universe-decides/privacy-policy"
             element={<TheUniverseDecidesPrivacyPolicy />}
-          />
-          <Route
-            path="/the-universe-decides/support"
-            element={<TheUniverseDecidesSupport />}
           />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
