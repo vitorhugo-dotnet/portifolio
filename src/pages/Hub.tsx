@@ -16,13 +16,6 @@ const hubItems = [
     icon: FileText,
     isExternal: false,
   },
-  {
-    title: "The Universe Decides — Support",
-    description: "Find support contact details, troubleshooting, and privacy assistance.",
-    path: "/the-universe-decides/support",
-    icon: FileText,
-    isExternal: false,
-  },
 ];
 
 const Hub = () => {
@@ -32,7 +25,7 @@ const Hub = () => {
         <header className="mb-8">
           <h1 className="text-3xl font-bold tracking-tight">Hub</h1>
           <p className="mt-2 text-muted-foreground">
-            Privacy and support resources for published apps.
+            Privacy resources for published apps.
           </p>
         </header>
 
