@@ -4,7 +4,7 @@ Personal portfolio built with **Vite + React + TypeScript**, styled with **Tailw
 
 ## Overview
 
-This project presents GitHub-powered portfolio sections (hero, pinned repositories, activity, contribution heatmap, and contact) plus a small **Hub** page for public privacy, account removal, and support resources.
+This project presents GitHub-powered portfolio sections (hero, pinned repositories, activity, contribution heatmap, and contact) plus a small **Hub** page for public privacy and support resources.
 
 ## Tech stack
 
@@ -68,7 +68,6 @@ npm run preview
 ## SonicRelay public routes
 
 - `/sonicrelay/privacy-policy` — app-specific privacy policy
-- `/sonicrelay/account-removal` — account and associated app data removal request page
 - `/sonicrelay/support` — support contact, privacy requests, and troubleshooting
 
 ## The Universe Decides public routes

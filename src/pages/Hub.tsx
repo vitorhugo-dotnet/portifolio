@@ -17,13 +17,6 @@ const hubItems = [
     isExternal: false,
   },
   {
-    title: "SonicRelay — Account Removal",
-    description: "Request deletion of a SonicRelay account and associated app data.",
-    path: "/sonicrelay/account-removal",
-    icon: FileText,
-    isExternal: false,
-  },
-  {
     title: "SonicRelay — Support",
     description: "Find support contact details, troubleshooting, and privacy assistance.",
     path: "/sonicrelay/support",
@@ -53,7 +46,7 @@ const Hub = () => {
         <header className="mb-8">
           <h1 className="text-3xl font-bold tracking-tight">Hub</h1>
           <p className="mt-2 text-muted-foreground">
-            Privacy, account removal, and support resources for the portfolio and published apps.
+            Privacy and support resources for the portfolio and published apps.
           </p>
         </header>
 
