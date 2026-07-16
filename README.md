@@ -4,7 +4,7 @@ Personal portfolio built with **Vite + React + TypeScript**, styled with **Tailw
 
 ## Overview
 
-This project presents GitHub-powered portfolio sections (hero, pinned repositories, activity, contribution heatmap, and contact) plus a small **Hub** page that centralizes internal pages, Play Store publishing documentation, and external links.
+This project presents GitHub-powered portfolio sections (hero, pinned repositories, activity, contribution heatmap, and contact) plus a small **Hub** page for public privacy, account removal, and support resources.
 
 ## Tech stack
 
@@ -62,25 +62,19 @@ npm run preview
 ## Main routes
 
 - `/` — portfolio homepage
-- `/hub` — hub with quick links
-- `/privacy-policy` — portfolio privacy policy template page
+- `/hub` — public privacy and support hub
+- `/privacy-policy` — portfolio privacy policy
 
-## SonicRelay Play Store routes
+## SonicRelay public routes
 
-- `/sonicrelay/privacy-policy` — public app-specific privacy policy for Google Play
-- `/sonicrelay/data-safety` — Google Play Data Safety notes for account, device, session, and signaling declarations
-- `/sonicrelay/play-listing` — Play listing draft, description, tags, and content notes
-- `/sonicrelay/app-access` — app access, permissions, ads declaration, target audience, and reviewer notes
-- `/sonicrelay/account-removal` — public account and app data removal request page
-- `/sonicrelay/support` — support contact, privacy requests, troubleshooting, and repository links
+- `/sonicrelay/privacy-policy` — app-specific privacy policy
+- `/sonicrelay/account-removal` — account and associated app data removal request page
+- `/sonicrelay/support` — support contact, privacy requests, and troubleshooting
 
-## The Universe Decides Play Store routes
+## The Universe Decides public routes
 
-- `/the-universe-decides/privacy-policy` — public app-specific privacy policy for Google Play
-- `/the-universe-decides/data-safety` — Google Play Data Safety notes and suggested declarations
-- `/the-universe-decides/store-listing` — store listing draft, description, tags, and content notes
-- `/the-universe-decides/app-access` — app access, permissions, ads declaration, target audience, and reviewer notes
-- `/the-universe-decides/support` — support contact, account deletion statement, troubleshooting, and repository link
+- `/the-universe-decides/privacy-policy` — app-specific privacy policy
+- `/the-universe-decides/support` — support contact, privacy requests, and troubleshooting
 
 ## Project structure (high level)
 

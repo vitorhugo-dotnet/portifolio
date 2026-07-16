@@ -8,16 +8,9 @@ import NotFound from "./pages/NotFound.tsx";
 import Hub from "./pages/Hub.tsx";
 import PrivacyPolicy from "./pages/PrivacyPolicy.tsx";
 import SonicRelayAccountRemoval from "./pages/SonicRelayAccountRemoval.tsx";
-import SonicRelayAppAccess from "./pages/SonicRelayAppAccess.tsx";
-import SonicRelayDataSafety from "./pages/SonicRelayDataSafety.tsx";
-import SonicRelayListing from "./pages/SonicRelayListing.tsx";
-import SonicRelayPlayConsoleChecklist from "./pages/SonicRelayPlayConsoleChecklist.tsx";
 import SonicRelayPrivacyPolicy from "./pages/SonicRelayPrivacyPolicy.tsx";
 import SonicRelaySupport from "./pages/SonicRelaySupport.tsx";
-import TheUniverseDecidesAppAccess from "./pages/TheUniverseDecidesAppAccess.tsx";
-import TheUniverseDecidesDataSafety from "./pages/TheUniverseDecidesDataSafety.tsx";
 import TheUniverseDecidesPrivacyPolicy from "./pages/TheUniverseDecidesPrivacyPolicy.tsx";
-import TheUniverseDecidesStoreListing from "./pages/TheUniverseDecidesStoreListing.tsx";
 import TheUniverseDecidesSupport from "./pages/TheUniverseDecidesSupport.tsx";
 
 const queryClient = new QueryClient();
@@ -37,18 +30,6 @@ const App = () => (
             element={<SonicRelayPrivacyPolicy />}
           />
           <Route
-            path="/sonicrelay/data-safety"
-            element={<SonicRelayDataSafety />}
-          />
-          <Route
-            path="/sonicrelay/play-listing"
-            element={<SonicRelayListing />}
-          />
-          <Route
-            path="/sonicrelay/app-access"
-            element={<SonicRelayAppAccess />}
-          />
-          <Route
             path="/sonicrelay/account-removal"
             element={<SonicRelayAccountRemoval />}
           />
@@ -57,24 +38,8 @@ const App = () => (
             element={<SonicRelaySupport />}
           />
           <Route
-            path="/sonicrelay/play-console-checklist"
-            element={<SonicRelayPlayConsoleChecklist />}
-          />
-          <Route
             path="/the-universe-decides/privacy-policy"
             element={<TheUniverseDecidesPrivacyPolicy />}
-          />
-          <Route
-            path="/the-universe-decides/data-safety"
-            element={<TheUniverseDecidesDataSafety />}
-          />
-          <Route
-            path="/the-universe-decides/store-listing"
-            element={<TheUniverseDecidesStoreListing />}
-          />
-          <Route
-            path="/the-universe-decides/app-access"
-            element={<TheUniverseDecidesAppAccess />}
           />
           <Route
             path="/the-universe-decides/support"
