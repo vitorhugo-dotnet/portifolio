@@ -4,7 +4,7 @@ Personal portfolio built with **Vite + React + TypeScript**, styled with **Tailw
 
 ## Overview
 
-This project presents GitHub-powered portfolio sections (hero, pinned repositories, activity, contribution heatmap, and contact) plus a small **Hub** page for public app privacy and support resources.
+This project presents GitHub-powered portfolio sections (hero, pinned repositories, activity, contribution heatmap, and contact) plus a small **Hub** page for public app privacy resources.
 
 ## Tech stack
 
@@ -62,7 +62,7 @@ npm run preview
 ## Main routes
 
 - `/` — portfolio homepage
-- `/hub` — public app privacy and support hub
+- `/hub` — public app privacy hub
 
 ## SonicRelay public routes
 
@@ -71,7 +71,6 @@ npm run preview
 ## The Universe Decides public routes
 
 - `/the-universe-decides/privacy-policy` — app-specific privacy policy
-- `/the-universe-decides/support` — support contact, privacy requests, and troubleshooting
 
 ## Project structure (high level)
 
