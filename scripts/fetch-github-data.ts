@@ -1,7 +1,7 @@
 // Fetches all GitHub data needed by the website and writes to src/data/github-cache.json
 // Run with: bun scripts/fetch-github-data.ts
 
-const GITHUB_USERNAME = "vitorhugo-java";
+const GITHUB_USERNAME = "vitorhugo-dotnet";
 const RECENT_REPOS_COUNT = 6;
 const OTHER_REPOS_COUNT = 10;
 const EVENT_PAGES = 3;
