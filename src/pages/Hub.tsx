@@ -4,7 +4,7 @@ import HubCard from "@/components/HubCard";
 const hubItems = [
   {
     title: "SonicRelay — Privacy Policy",
-    description: "Read how SonicRelay handles account, device, and connection data.",
+    description: "Read how SonicRelay handles device, pairing, and connection data.",
     path: "/sonicrelay/privacy-policy",
     icon: FileText,
     isExternal: false,

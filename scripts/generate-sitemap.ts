@@ -5,8 +5,8 @@
 import { readFileSync } from "fs";
 import { resolve } from "path";
 
-const GITHUB_USERNAME = "vitorhugo-java";
-const SITE_URL = "https://vitorhugo-java.github.io"; // Update with your actual site URL
+const GITHUB_USERNAME = "vitorhugo-dotnet";
+const SITE_URL = "https://vitorhugo-dotnet.github.io"; // Update with your actual site URL
 
 function buildHeaders(): Record<string, string> {
   const headers: Record<string, string> = {
