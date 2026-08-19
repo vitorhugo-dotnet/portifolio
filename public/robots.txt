@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://vitorhugo-java.github.io/sitemap.xml
+Sitemap: https://vitorhugo-dotnet.github.io/sitemap.xml
