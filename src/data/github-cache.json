@@ -104,7 +104,7 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/vitorhugo-dotnet/deployments",
       "created_at": "2021-02-12T19:28:48Z",
       "updated_at": "2026-08-19T00:22:12Z",
-      "pushed_at": "2026-08-20T00:51:19Z",
+      "pushed_at": "2026-08-21T00:54:50Z",
       "git_url": "git://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/vitorhugo-dotnet.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
@@ -216,14 +216,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay/deployments",
       "created_at": "2026-07-05T12:45:11Z",
-      "updated_at": "2026-08-19T20:37:55Z",
-      "pushed_at": "2026-08-19T20:42:10Z",
+      "updated_at": "2026-08-20T18:34:03Z",
+      "pushed_at": "2026-08-20T18:34:24Z",
       "git_url": "git://github.com/vitorhugo-dotnet/desktop_dotnet_SonicRelay.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/desktop_dotnet_SonicRelay.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/desktop_dotnet_SonicRelay.git",
       "svn_url": "https://github.com/vitorhugo-dotnet/desktop_dotnet_SonicRelay",
       "homepage": "",
-      "size": 2809,
+      "size": 2828,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "C#",
@@ -353,14 +353,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/flutter_mobile-web_SonicRelay/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/flutter_mobile-web_SonicRelay/deployments",
       "created_at": "2026-07-05T21:30:58Z",
-      "updated_at": "2026-08-19T16:14:47Z",
-      "pushed_at": "2026-08-19T16:07:43Z",
+      "updated_at": "2026-08-20T17:12:30Z",
+      "pushed_at": "2026-08-20T17:09:07Z",
       "git_url": "git://github.com/vitorhugo-dotnet/flutter_mobile-web_SonicRelay.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/flutter_mobile-web_SonicRelay.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/flutter_mobile-web_SonicRelay.git",
       "svn_url": "https://github.com/vitorhugo-dotnet/flutter_mobile-web_SonicRelay",
       "homepage": "",
-      "size": 9533,
+      "size": 9540,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Dart",
@@ -412,6 +412,116 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
+      "id": 1189545274,
+      "node_id": "R_kgDORucFOg",
+      "name": "portifolio",
+      "full_name": "vitorhugo-dotnet/portifolio",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-dotnet",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "html_url": "https://github.com/vitorhugo-dotnet",
+        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-dotnet/portifolio",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio",
+      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/deployments",
+      "created_at": "2026-03-23T12:34:58Z",
+      "updated_at": "2026-08-18T03:48:49Z",
+      "pushed_at": "2026-08-20T02:45:01Z",
+      "git_url": "git://github.com/vitorhugo-dotnet/portifolio.git",
+      "ssh_url": "git@github.com:vitorhugo-dotnet/portifolio.git",
+      "clone_url": "https://github.com/vitorhugo-dotnet/portifolio.git",
+      "svn_url": "https://github.com/vitorhugo-dotnet/portifolio",
+      "homepage": "http://hugodotnet.dev/",
+      "size": 793,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "TypeScript",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": false,
+      "has_pages": true,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 1,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -545,116 +655,6 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 5,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1189545274,
-      "node_id": "R_kgDORucFOg",
-      "name": "portifolio",
-      "full_name": "vitorhugo-dotnet/portifolio",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-dotnet",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "html_url": "https://github.com/vitorhugo-dotnet",
-        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-dotnet/portifolio",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio",
-      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/deployments",
-      "created_at": "2026-03-23T12:34:58Z",
-      "updated_at": "2026-08-18T03:48:49Z",
-      "pushed_at": "2026-08-19T02:45:49Z",
-      "git_url": "git://github.com/vitorhugo-dotnet/portifolio.git",
-      "ssh_url": "git@github.com:vitorhugo-dotnet/portifolio.git",
-      "clone_url": "https://github.com/vitorhugo-dotnet/portifolio.git",
-      "svn_url": "https://github.com/vitorhugo-dotnet/portifolio",
-      "homepage": "http://hugodotnet.dev/",
-      "size": 790,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "TypeScript",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": false,
-      "has_wiki": false,
-      "has_pages": true,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 1,
-      "license": null,
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -978,7 +978,7 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/the_universe_decides/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/the_universe_decides/deployments",
       "created_at": "2026-02-15T23:09:02Z",
-      "updated_at": "2026-08-18T22:06:43Z",
+      "updated_at": "2026-08-20T20:16:26Z",
       "pushed_at": "2026-08-15T18:20:27Z",
       "git_url": "git://github.com/vitorhugo-dotnet/the_universe_decides.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/the_universe_decides.git",
@@ -986,8 +986,8 @@
       "svn_url": "https://github.com/vitorhugo-dotnet/the_universe_decides",
       "homepage": "https://universe.hugodotnet.dev/",
       "size": 13539,
-      "stargazers_count": 5,
-      "watchers_count": 5,
+      "stargazers_count": 6,
+      "watchers_count": 6,
       "language": "Dart",
       "has_issues": true,
       "has_projects": true,
@@ -1032,7 +1032,7 @@
       "visibility": "public",
       "forks": 1,
       "open_issues": 0,
-      "watchers": 5,
+      "watchers": 6,
       "default_branch": "master",
       "permissions": {
         "admin": false,
@@ -2576,6 +2576,228 @@
   ],
   "events": [
     {
+      "id": "18317956090",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1289979530,
+        "name": "vitorhugo-dotnet/desktop_dotnet_SonicRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay"
+      },
+      "payload": {
+        "repository_id": 1289979530,
+        "push_id": 40641421226,
+        "ref": "refs/heads/main",
+        "head": "982e5f5cb3166594bce3259c1c7dc898b1afa8fa",
+        "before": "c0825823865817f1bf0ee0457897e3afa02f3992"
+      },
+      "public": true,
+      "created_at": "2026-08-20T18:29:59Z"
+    },
+    {
+      "id": "18317590745",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1289979530,
+        "name": "vitorhugo-dotnet/desktop_dotnet_SonicRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay"
+      },
+      "payload": {
+        "ref": "claude/ice-restart-escalation",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/claude/ice-restart-escalation",
+        "master_branch": "main",
+        "description": "Windows desktop publisher for SonicRelay, capturing system audio with WASAPI and streaming it via WebRTC/Opus without requiring admin access.",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-08-20T18:26:02Z"
+    },
+    {
+      "id": "18313523221",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1289979530,
+        "name": "vitorhugo-dotnet/desktop_dotnet_SonicRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay"
+      },
+      "payload": {
+        "ref": "claude/ice-restart-escalation",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/claude/ice-restart-escalation",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-08-20T18:30:03Z"
+    },
+    {
+      "id": "18311809652",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1290352056,
+        "name": "vitorhugo-dotnet/flutter_mobile-web_SonicRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/flutter_mobile-web_SonicRelay"
+      },
+      "payload": {
+        "repository_id": 1290352056,
+        "push_id": 40632658737,
+        "ref": "refs/heads/main",
+        "head": "57ce6264f34396d8da09eb15d84d76d2cde1fec0",
+        "before": "0fe94ebde2933d58716de6579960b319b43c54cc"
+      },
+      "public": true,
+      "created_at": "2026-08-20T16:57:29Z"
+    },
+    {
+      "id": "13601808972",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1289979530,
+        "name": "vitorhugo-dotnet/desktop_dotnet_SonicRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay"
+      },
+      "payload": {
+        "action": "merged",
+        "number": 61,
+        "pull_request": {
+          "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay/pulls/61",
+          "id": 4325541374,
+          "number": 61,
+          "head": {
+            "ref": "claude/ice-restart-escalation",
+            "sha": "32e3d32ea0dc576007ef1d59f7ac51eff18354d9",
+            "repo": {
+              "id": 1289979530,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay",
+              "name": "desktop_dotnet_SonicRelay"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "c0825823865817f1bf0ee0457897e3afa02f3992",
+            "repo": {
+              "id": 1289979530,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay",
+              "name": "desktop_dotnet_SonicRelay"
+            }
+          }
+        }
+      },
+      "public": true,
+      "created_at": "2026-08-20T18:29:58Z"
+    },
+    {
+      "id": "13601621594",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1289979530,
+        "name": "vitorhugo-dotnet/desktop_dotnet_SonicRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay"
+      },
+      "payload": {
+        "action": "opened",
+        "number": 61,
+        "pull_request": {
+          "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay/pulls/61",
+          "id": 4325541374,
+          "number": 61,
+          "head": {
+            "ref": "claude/ice-restart-escalation",
+            "sha": "32e3d32ea0dc576007ef1d59f7ac51eff18354d9",
+            "repo": {
+              "id": 1289979530,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay",
+              "name": "desktop_dotnet_SonicRelay"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "c0825823865817f1bf0ee0457897e3afa02f3992",
+            "repo": {
+              "id": 1289979530,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay",
+              "name": "desktop_dotnet_SonicRelay"
+            }
+          }
+        }
+      },
+      "public": true,
+      "created_at": "2026-08-20T18:26:21Z"
+    },
+    {
+      "id": "18296260440",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1290352056,
+        "name": "vitorhugo-dotnet/flutter_mobile-web_SonicRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/flutter_mobile-web_SonicRelay"
+      },
+      "payload": {
+        "repository_id": 1290352056,
+        "push_id": 40619698505,
+        "ref": "refs/heads/main",
+        "head": "8ae6ba4613541e627d3f61da70866b435463ba6f",
+        "before": "22665570919c8630b012c987f5af9973933c9ca7"
+      },
+      "public": true,
+      "created_at": "2026-08-20T14:46:06Z"
+    },
+    {
       "id": "18207626872",
       "type": "PushEvent",
       "actor": {
@@ -2652,197 +2874,9 @@
       },
       "public": true,
       "created_at": "2026-08-19T20:23:06Z"
-    },
-    {
-      "id": "18205952745",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1289979530,
-        "name": "vitorhugo-dotnet/desktop_dotnet_SonicRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay"
-      },
-      "payload": {
-        "repository_id": 1289979530,
-        "push_id": 40528935348,
-        "ref": "refs/heads/main",
-        "head": "df5a084a915056f4ffa9db7d6b6ebdd9f8335e3a",
-        "before": "fe9453f63b9b18275cedc3961d85ab8cf1017ee2"
-      },
-      "public": true,
-      "created_at": "2026-08-19T20:23:03Z"
-    },
-    {
-      "id": "18204613698",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1289979530,
-        "name": "vitorhugo-dotnet/desktop_dotnet_SonicRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay"
-      },
-      "payload": {
-        "repository_id": 1289979530,
-        "push_id": 40527913650,
-        "ref": "refs/heads/main",
-        "head": "fe9453f63b9b18275cedc3961d85ab8cf1017ee2",
-        "before": "53bc028528e3e66b71bd4716251b7b2585a50588"
-      },
-      "public": true,
-      "created_at": "2026-08-19T20:10:14Z"
-    },
-    {
-      "id": "18202836111",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1289979530,
-        "name": "vitorhugo-dotnet/desktop_dotnet_SonicRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay"
-      },
-      "payload": {
-        "repository_id": 1289979530,
-        "push_id": 40527499663,
-        "ref": "refs/heads/claude/fix-it-orohe2",
-        "head": "b87887ca7496d226f300eb01f7c04904abdf595c",
-        "before": "bb97966c5eeeb8cffb197a769998e52ca8b34ed9"
-      },
-      "public": true,
-      "created_at": "2026-08-19T20:05:02Z"
-    },
-    {
-      "id": "18202604132",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209539905,
-        "push_id": 40523334147,
-        "ref": "refs/heads/main",
-        "head": "c2a261a066b3036813e599be2f10c1e89ce77cf1",
-        "before": "3b4325fd94f2a2a6baa8d8154b1695873d815ed8"
-      },
-      "public": true,
-      "created_at": "2026-08-19T19:13:48Z"
-    },
-    {
-      "id": "18202146323",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1289979530,
-        "name": "vitorhugo-dotnet/desktop_dotnet_SonicRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay"
-      },
-      "payload": {
-        "ref": "claude/resource-usage-diagnostics",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/claude/resource-usage-diagnostics",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-08-19T20:37:34Z"
-    },
-    {
-      "id": "18201599614",
-      "type": "CreateEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1289979530,
-        "name": "vitorhugo-dotnet/desktop_dotnet_SonicRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay"
-      },
-      "payload": {
-        "ref": "claude/fix-it-orohe2",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/claude/fix-it-orohe2",
-        "master_branch": "main",
-        "description": "Windows desktop publisher for SonicRelay, capturing system audio with WASAPI and streaming it via WebRTC/Opus without requiring admin access.",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-08-19T19:34:24Z"
-    },
-    {
-      "id": "18200742556",
-      "type": "CreateEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1289979530,
-        "name": "vitorhugo-dotnet/desktop_dotnet_SonicRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/desktop_dotnet_SonicRelay"
-      },
-      "payload": {
-        "ref": "claude/connection-loss-reconnect-ycn0to",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/claude/connection-loss-reconnect-ycn0to",
-        "master_branch": "main",
-        "description": "Windows desktop publisher for SonicRelay, capturing system audio with WASAPI and streaming it via WebRTC/Opus without requiring admin access.",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-08-19T20:21:31Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-08-21",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-08-22",
       "count": 0,
@@ -4635,7 +4669,7 @@
     },
     {
       "date": "2026-08-15",
-      "count": 31,
+      "count": 24,
       "level": 4
     },
     {
@@ -4660,9 +4694,14 @@
     },
     {
       "date": "2026-08-20",
+      "count": 7,
+      "level": 3
+    },
+    {
+      "date": "2026-08-21",
       "count": 0,
       "level": 0
     }
   ],
-  "generatedAt": "2026-08-20T02:12:40.838Z"
+  "generatedAt": "2026-08-21T02:19:42.967Z"
 }
