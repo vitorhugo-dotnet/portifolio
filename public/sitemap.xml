@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vitorhugo-dotnet.github.io</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -11,8 +11,23 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>sonic.hugodotnet.dev/</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://vitorhugo-java.github.io/distributed-gateway-order-system/</loc>
     <lastmod>2026-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sonic.hugodotnet.dev</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://sonicrelay.hugodotnet.dev/</loc>
+    <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -47,7 +62,7 @@
   </url>
   <url>
     <loc>http://hugodotnet.dev/</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -72,7 +87,7 @@
   </url>
   <url>
     <loc>https://github.com/vitorhugo1207</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
