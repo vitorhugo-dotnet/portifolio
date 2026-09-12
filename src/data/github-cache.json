@@ -104,7 +104,7 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/vitorhugo-dotnet/deployments",
       "created_at": "2021-02-12T19:28:48Z",
       "updated_at": "2026-08-19T00:22:12Z",
-      "pushed_at": "2026-09-11T02:26:56Z",
+      "pushed_at": "2026-09-12T02:34:36Z",
       "git_url": "git://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/vitorhugo-dotnet.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
@@ -138,6 +138,116 @@
       "visibility": "public",
       "forks": 1,
       "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
+      "id": 1189545274,
+      "node_id": "R_kgDORucFOg",
+      "name": "portifolio",
+      "full_name": "vitorhugo-dotnet/portifolio",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-dotnet",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "html_url": "https://github.com/vitorhugo-dotnet",
+        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-dotnet/portifolio",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio",
+      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/deployments",
+      "created_at": "2026-03-23T12:34:58Z",
+      "updated_at": "2026-08-18T03:48:49Z",
+      "pushed_at": "2026-09-11T06:39:29Z",
+      "git_url": "git://github.com/vitorhugo-dotnet/portifolio.git",
+      "ssh_url": "git@github.com:vitorhugo-dotnet/portifolio.git",
+      "clone_url": "https://github.com/vitorhugo-dotnet/portifolio.git",
+      "svn_url": "https://github.com/vitorhugo-dotnet/portifolio",
+      "homepage": "http://hugodotnet.dev/",
+      "size": 850,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "TypeScript",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": false,
+      "has_pages": true,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 1,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -772,116 +882,6 @@
         "wails",
         "windows"
       ],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 1,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1189545274,
-      "node_id": "R_kgDORucFOg",
-      "name": "portifolio",
-      "full_name": "vitorhugo-dotnet/portifolio",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-dotnet",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "html_url": "https://github.com/vitorhugo-dotnet",
-        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-dotnet/portifolio",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio",
-      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/deployments",
-      "created_at": "2026-03-23T12:34:58Z",
-      "updated_at": "2026-08-18T03:48:49Z",
-      "pushed_at": "2026-09-10T06:40:21Z",
-      "git_url": "git://github.com/vitorhugo-dotnet/portifolio.git",
-      "ssh_url": "git@github.com:vitorhugo-dotnet/portifolio.git",
-      "clone_url": "https://github.com/vitorhugo-dotnet/portifolio.git",
-      "svn_url": "https://github.com/vitorhugo-dotnet/portifolio",
-      "homepage": "http://hugodotnet.dev/",
-      "size": 845,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "TypeScript",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": false,
-      "has_wiki": false,
-      "has_pages": true,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 1,
-      "license": null,
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
       "visibility": "public",
       "forks": 0,
       "open_issues": 1,
@@ -2567,7 +2567,7 @@
   ],
   "events": [
     {
-      "id": "20753674015",
+      "id": "20846641290",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2578,480 +2578,23 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-dotnet/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
+        "id": 1290352056,
+        "name": "vitorhugo-dotnet/flutter_mobile-web_SonicRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/flutter_mobile-web_SonicRelay"
       },
       "payload": {
-        "repository_id": 1209541142,
-        "push_id": 43233763992,
-        "ref": "refs/heads/chore/upgrade-tailwind-v4",
-        "head": "43eaaee362a225a57d72699ee9733840e12cd09e",
-        "before": "7299ec4a8be935d28ff6a052fa3c7cefbb2eb61a"
-      },
-      "public": true,
-      "created_at": "2026-09-10T19:13:36Z"
-    },
-    {
-      "id": "20752176403",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-dotnet/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
-      },
-      "payload": {
-        "ref": "dependabot/npm_and_yarn/multi-15e0f44842",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/dependabot/npm_and_yarn/multi-15e0f44842",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-09-10T18:57:14Z"
-    },
-    {
-      "id": "20747274996",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-dotnet/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209541142,
-        "push_id": 43234470828,
-        "ref": "refs/heads/chore/upgrade-tailwind-v4",
-        "head": "1419a3abe22248ca14845356ebb4ebe5c5e1a770",
-        "before": "637a947d64ab2d9d0cd67af5f5e400bab9f281ce"
-      },
-      "public": true,
-      "created_at": "2026-09-10T19:22:19Z"
-    },
-    {
-      "id": "20746725858",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-dotnet/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209541142,
-        "push_id": 43233874312,
-        "ref": "refs/heads/chore/upgrade-tailwind-v4",
-        "head": "637a947d64ab2d9d0cd67af5f5e400bab9f281ce",
-        "before": "79534962f05183cfefbfb0ace89a025475f0dea8"
-      },
-      "public": true,
-      "created_at": "2026-09-10T19:14:58Z"
-    },
-    {
-      "id": "20746510183",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-dotnet/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209541142,
-        "push_id": 43233678448,
-        "ref": "refs/heads/chore/upgrade-tailwind-v4",
-        "head": "7299ec4a8be935d28ff6a052fa3c7cefbb2eb61a",
-        "before": "7af0acbc8b7e2bec208dc200b04d250e9266cd6b"
-      },
-      "public": true,
-      "created_at": "2026-09-10T19:12:32Z"
-    },
-    {
-      "id": "14825544011",
-      "type": "IssuesEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-dotnet/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
-      },
-      "payload": {
-        "action": "opened",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/91",
-          "repository_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/91/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/91/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/91/events",
-          "html_url": "https://github.com/vitorhugo-dotnet/React-JobApplyTracker/issues/91",
-          "id": 5418752680,
-          "node_id": "I_kwDOSBgiFs8AAAABQvuaqA",
-          "number": 91,
-          "title": "feat(frontend): allow opening applications in a new tab from the list",
-          "user": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "open",
-          "locked": false,
-          "assignees": [],
-          "milestone": null,
-          "comments": 0,
-          "created_at": "2026-09-11T00:23:27Z",
-          "updated_at": "2026-09-11T00:23:27Z",
-          "closed_at": null,
-          "assignee": null,
-          "active_lock_reason": null,
-          "sub_issues_summary": {
-            "total": 0,
-            "completed": 0,
-            "percent_completed": 0
-          },
-          "issue_dependencies_summary": {
-            "blocked_by": 0,
-            "total_blocked_by": 0,
-            "blocking": 0,
-            "total_blocking": 0
-          },
-          "body": "## Problem\n\nOn the **Applications** search/list screen, application entries are currently opened through custom click/navigation behavior instead of behaving like native links.\n\nBecause of that, users cannot use standard browser interactions such as:\n\n- Right click → **Open link in new tab**\n- Middle mouse button / scroll-wheel click\n- `Ctrl + Click` / `Cmd + Click`\n\nThis makes it unnecessarily awkward to compare or review multiple applications at once.\n\n## Expected behavior\n\nApplication navigation from the list should use a real semantic link (`<a href=\"...\">` or the router's link component that renders one), preserving normal SPA navigation on a regular left click while allowing the browser's native new-tab behavior.\n\nAvoid custom mouse handlers or `preventDefault()` logic that breaks native link interactions.\n\n## Screenshot\n\n![Applications list without native link behavior](https://i.imgur.com/ntOmSRc.png)\n\n## Acceptance criteria\n\n- A normal left click continues opening the application normally.\n- Right click on the application link exposes the browser's native **Open link in new tab** option.\n- Middle click opens the application in a new tab.\n- `Ctrl + Click` / `Cmd + Click` works as expected.\n- The target URL is a real application detail/edit route and can be copied/bookmarked.\n- No regression to keyboard accessibility or existing table interactions.\n- The implementation should prefer native/semantic link behavior rather than manually detecting mouse buttons.",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/91/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/91/timeline",
-          "performed_via_github_app": {
-            "id": 1144995,
-            "client_id": "Iv23liVemv8A9if9v0F2",
-            "slug": "chatgpt-codex-connector",
-            "node_id": "A_kwHOAOQ6Gs4AEXij",
-            "owner": {
-              "login": "openai",
-              "id": 14957082,
-              "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0OTU3MDgy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/openai",
-              "html_url": "https://github.com/openai",
-              "followers_url": "https://api.github.com/users/openai/followers",
-              "following_url": "https://api.github.com/users/openai/following{/other_user}",
-              "gists_url": "https://api.github.com/users/openai/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/openai/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/openai/subscriptions",
-              "organizations_url": "https://api.github.com/users/openai/orgs",
-              "repos_url": "https://api.github.com/users/openai/repos",
-              "events_url": "https://api.github.com/users/openai/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/openai/received_events",
-              "type": "Organization",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "name": "ChatGPT Codex Connector",
-            "description": "Bring ChatGPT and Codex to your GitHub repositories.",
-            "external_url": "https://www.chatgpt.com",
-            "html_url": "https://github.com/apps/chatgpt-codex-connector",
-            "created_at": "2025-02-14T01:37:05Z",
-            "updated_at": "2026-04-20T16:37:15Z",
-            "permissions": {
-              "actions": "write",
-              "checks": "read",
-              "contents": "write",
-              "emails": "read",
-              "issues": "write",
-              "metadata": "read",
-              "pull_requests": "write",
-              "statuses": "read",
-              "workflows": "write"
-            },
-            "events": [
-              "check_run",
-              "check_suite",
-              "commit_comment",
-              "issues",
-              "issue_comment",
-              "pull_request",
-              "pull_request_review",
-              "pull_request_review_comment",
-              "pull_request_review_thread",
-              "repository",
-              "status",
-              "sub_issues"
-            ]
-          },
-          "state_reason": null,
-          "pinned_comment": null
-        }
-      },
-      "public": true,
-      "created_at": "2026-09-11T00:23:28Z"
-    },
-    {
-      "id": "14825403128",
-      "type": "IssuesEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-dotnet/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
-      },
-      "payload": {
-        "action": "opened",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/90",
-          "repository_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/90/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/90/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/90/events",
-          "html_url": "https://github.com/vitorhugo-dotnet/React-JobApplyTracker/issues/90",
-          "id": 5418729344,
-          "node_id": "I_kwDOSBgiFs8AAAABQvs_gA",
-          "number": 90,
-          "title": "fix(frontend): correct Edit Application layout and restore Platform field",
-          "user": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "open",
-          "locked": false,
-          "assignees": [],
-          "milestone": null,
-          "comments": 0,
-          "created_at": "2026-09-11T00:20:01Z",
-          "updated_at": "2026-09-11T00:21:18Z",
-          "closed_at": null,
-          "assignee": null,
-          "active_lock_reason": null,
-          "sub_issues_summary": {
-            "total": 0,
-            "completed": 0,
-            "percent_completed": 0
-          },
-          "issue_dependencies_summary": {
-            "blocked_by": 0,
-            "total_blocked_by": 0,
-            "blocking": 0,
-            "total_blocking": 0
-          },
-          "body": "## Problems\n\n### 1. Page header is misaligned\n\nOn the **Edit Application** page, the page header (`Edit Application` + subtitle) is horizontally misaligned with the form content.\n\nCurrently, the header starts much further to the left, while the form fields begin in a separate content column, creating a visibly broken layout.\n\n### 2. `Platform` field is missing from the frontend\n\nThe application model includes a **Platform** field, but the **Edit Application** frontend does not render an input/control for it. In the current layout, the expected position beside `Interviews` is empty.\n\nThis prevents users from viewing or editing the platform/source associated with an application.\n\n## Expected behavior\n\n- The page header should follow the same horizontal alignment/container as the form content, with its left edge aligned to the form section (for example, the `Vacancy Name` field label/input).\n- The `Platform` field must be rendered on the Edit Application form and bound to the existing application data/model.\n- Existing values should be loaded when editing an application and persisted when saving.\n- The layout should remain correct across supported responsive breakpoints.\n\n## Screenshots\n\n### Header alignment\n\n![Misaligned Edit Application header](https://i.imgur.com/Wg2YGyy.png)\n\n### Missing Platform field\n\n![Missing Platform field](https://i.imgur.com/C5KRR8D.png)\n\n## Acceptance criteria\n\n- `Edit Application` title and subtitle are aligned with the form content.\n- `Platform` is visible and editable in the Edit Application form.\n- Existing `Platform` values are correctly populated when opening an application for editing.\n- Changes to `Platform` are included in the update/save flow.\n- The empty space currently shown beside `Interviews` is replaced by the proper `Platform` control without breaking the grid.\n- No unnecessary fixed margin/padding is introduced just to compensate for a specific viewport.\n- Layout remains consistent/responsive on desktop and smaller widths.\n- Existing form spacing, validation, and behavior are not regressed.",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/90/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/90/timeline",
-          "performed_via_github_app": {
-            "id": 1144995,
-            "client_id": "Iv23liVemv8A9if9v0F2",
-            "slug": "chatgpt-codex-connector",
-            "node_id": "A_kwHOAOQ6Gs4AEXij",
-            "owner": {
-              "login": "openai",
-              "id": 14957082,
-              "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0OTU3MDgy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/openai",
-              "html_url": "https://github.com/openai",
-              "followers_url": "https://api.github.com/users/openai/followers",
-              "following_url": "https://api.github.com/users/openai/following{/other_user}",
-              "gists_url": "https://api.github.com/users/openai/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/openai/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/openai/subscriptions",
-              "organizations_url": "https://api.github.com/users/openai/orgs",
-              "repos_url": "https://api.github.com/users/openai/repos",
-              "events_url": "https://api.github.com/users/openai/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/openai/received_events",
-              "type": "Organization",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "name": "ChatGPT Codex Connector",
-            "description": "Bring ChatGPT and Codex to your GitHub repositories.",
-            "external_url": "https://www.chatgpt.com",
-            "html_url": "https://github.com/apps/chatgpt-codex-connector",
-            "created_at": "2025-02-14T01:37:05Z",
-            "updated_at": "2026-04-20T16:37:15Z",
-            "permissions": {
-              "actions": "write",
-              "checks": "read",
-              "contents": "write",
-              "emails": "read",
-              "issues": "write",
-              "metadata": "read",
-              "pull_requests": "write",
-              "statuses": "read",
-              "workflows": "write"
-            },
-            "events": [
-              "check_run",
-              "check_suite",
-              "commit_comment",
-              "issues",
-              "issue_comment",
-              "pull_request",
-              "pull_request_review",
-              "pull_request_review_comment",
-              "pull_request_review_thread",
-              "repository",
-              "status",
-              "sub_issues"
-            ]
-          },
-          "state_reason": null,
-          "pinned_comment": null
-        }
-      },
-      "public": true,
-      "created_at": "2026-09-11T00:20:02Z"
-    },
-    {
-      "id": "20740656559",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-dotnet/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209541142,
-        "push_id": 43221977293,
+        "repository_id": 1290352056,
+        "push_id": 43235612260,
         "ref": "refs/heads/main",
-        "head": "30c1f03864e3c79ae79314dede91d4de554bd7e3",
-        "before": "5da6193a4203edbbb7d8c9a67ad0b159c65ca1a6"
+        "head": "af460ac44150cd404a01b46e3d98aa30be73738b",
+        "before": "dfc2b83b8aa3b0dd8f0eaaef2a8c0f2eee9f2a29"
       },
       "public": true,
-      "created_at": "2026-09-10T16:57:13Z"
+      "created_at": "2026-09-10T19:36:25Z"
     },
     {
-      "id": "20740193868",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-dotnet/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209541142,
-        "push_id": 43221560931,
-        "ref": "refs/heads/chore/upgrade-tailwind-v4",
-        "head": "595517330d6c843a30a98586f00bf6d1a459d568",
-        "before": "e37039fda9eca3c4e81c1b2bec8a15adf1654998"
-      },
-      "public": true,
-      "created_at": "2026-09-10T16:52:32Z"
-    },
-    {
-      "id": "20739964866",
-      "type": "CreateEvent",
+      "id": "20846174365",
+      "type": "DeleteEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-dotnet",
@@ -3069,20 +2612,221 @@
         "ref": "chore/upgrade-tailwind-v4",
         "ref_type": "branch",
         "full_ref": "refs/heads/chore/upgrade-tailwind-v4",
-        "master_branch": "main",
-        "description": "🚀 A modern, responsive frontend application to track and manage job applications. Built with React, Vite, and Tailwind CSS, it features a comprehensive dashboard, application status tracking, and authentication.",
         "pusher_type": "user"
       },
       "public": true,
-      "created_at": "2026-09-10T16:50:13Z"
+      "created_at": "2026-09-10T19:28:07Z"
+    },
+    {
+      "id": "20845203998",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-dotnet/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 43234932625,
+        "ref": "refs/heads/main",
+        "head": "88bd14645c6d9e800e18fbfbea382b5df498a2ca",
+        "before": "69b0aed7b31cae1883e203b3097aea0072c0f427"
+      },
+      "public": true,
+      "created_at": "2026-09-10T19:28:04Z"
+    },
+    {
+      "id": "20844388779",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-dotnet/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 43232391675,
+        "ref": "refs/heads/main",
+        "head": "69b0aed7b31cae1883e203b3097aea0072c0f427",
+        "before": "f8000ff1fb3586ddb1c7eece4a7fb6707a140f58"
+      },
+      "public": true,
+      "created_at": "2026-09-10T18:57:11Z"
+    },
+    {
+      "id": "20839870524",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-dotnet/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 43221814113,
+        "ref": "refs/heads/chore/upgrade-tailwind-v4",
+        "head": "45d84edb6619c1f1e0157a3834812611b1c46016",
+        "before": "4eac680132ebe545bcd9a27e3a69a6b504ad0ef6"
+      },
+      "public": true,
+      "created_at": "2026-09-10T16:55:22Z"
+    },
+    {
+      "id": "20839831745",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-dotnet/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 43221759043,
+        "ref": "refs/heads/chore/upgrade-tailwind-v4",
+        "head": "d00c11b18f41b5440f46439600e1b9f4f0b1fe72",
+        "before": "eabf5656736d6f3e71647b3d22a7e3775240ddd7"
+      },
+      "public": true,
+      "created_at": "2026-09-10T16:54:45Z"
+    },
+    {
+      "id": "20836501322",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-dotnet/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 43221526527,
+        "ref": "refs/heads/chore/upgrade-tailwind-v4",
+        "head": "e37039fda9eca3c4e81c1b2bec8a15adf1654998",
+        "before": "a1f0949c20bfed1fb481539f31cd172e411aefac"
+      },
+      "public": true,
+      "created_at": "2026-09-10T16:52:09Z"
+    },
+    {
+      "id": "20835976450",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-dotnet/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 43221704992,
+        "ref": "refs/heads/chore/upgrade-tailwind-v4",
+        "head": "c1bb4e5eb1b6d8147cf87a1af1ee0d3889d35a7a",
+        "before": "921c16c228c4dd6fea049ceae0df5f93ae4e2dba"
+      },
+      "public": true,
+      "created_at": "2026-09-10T16:54:09Z"
+    },
+    {
+      "id": "20835957243",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-dotnet/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 43221678940,
+        "ref": "refs/heads/chore/upgrade-tailwind-v4",
+        "head": "921c16c228c4dd6fea049ceae0df5f93ae4e2dba",
+        "before": "faa6ea33fa91b1f79831c1d330d10e41366a031e"
+      },
+      "public": true,
+      "created_at": "2026-09-10T16:53:51Z"
+    },
+    {
+      "id": "20835819348",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-dotnet/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 43221487640,
+        "ref": "refs/heads/chore/upgrade-tailwind-v4",
+        "head": "a1f0949c20bfed1fb481539f31cd172e411aefac",
+        "before": "5da6193a4203edbbb7d8c9a67ad0b159c65ca1a6"
+      },
+      "public": true,
+      "created_at": "2026-09-10T16:51:42Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-09-12",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-13",
       "count": 0,
@@ -4800,13 +4544,13 @@
     },
     {
       "date": "2026-08-22",
-      "count": 10,
-      "level": 3
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-08-23",
-      "count": 13,
-      "level": 4
+      "count": 10,
+      "level": 3
     },
     {
       "date": "2026-08-24",
@@ -4895,14 +4639,19 @@
     },
     {
       "date": "2026-09-10",
-      "count": 33,
+      "count": 46,
       "level": 4
     },
     {
       "date": "2026-09-11",
       "count": 2,
       "level": 1
+    },
+    {
+      "date": "2026-09-12",
+      "count": 0,
+      "level": 0
     }
   ],
-  "generatedAt": "2026-09-11T05:29:58.349Z"
+  "generatedAt": "2026-09-12T05:18:01.920Z"
 }
