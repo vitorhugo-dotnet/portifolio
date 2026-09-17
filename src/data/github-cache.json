@@ -104,13 +104,13 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/vitorhugo-dotnet/deployments",
       "created_at": "2021-02-12T19:28:48Z",
       "updated_at": "2026-08-19T00:22:12Z",
-      "pushed_at": "2026-09-16T02:47:37Z",
+      "pushed_at": "2026-09-17T02:51:34Z",
       "git_url": "git://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/vitorhugo-dotnet.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
       "svn_url": "https://github.com/vitorhugo-dotnet/vitorhugo-dotnet",
       "homepage": "https://github.com/vitorhugo1207",
-      "size": 75,
+      "size": 76,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": null,
@@ -138,6 +138,116 @@
       "visibility": "public",
       "forks": 1,
       "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
+      "id": 1189545274,
+      "node_id": "R_kgDORucFOg",
+      "name": "portifolio",
+      "full_name": "vitorhugo-dotnet/portifolio",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-dotnet",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "html_url": "https://github.com/vitorhugo-dotnet",
+        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-dotnet/portifolio",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio",
+      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/deployments",
+      "created_at": "2026-03-23T12:34:58Z",
+      "updated_at": "2026-08-18T03:48:49Z",
+      "pushed_at": "2026-09-16T06:52:19Z",
+      "git_url": "git://github.com/vitorhugo-dotnet/portifolio.git",
+      "ssh_url": "git@github.com:vitorhugo-dotnet/portifolio.git",
+      "clone_url": "https://github.com/vitorhugo-dotnet/portifolio.git",
+      "svn_url": "https://github.com/vitorhugo-dotnet/portifolio",
+      "homepage": "http://hugodotnet.dev/",
+      "size": 876,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "TypeScript",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": false,
+      "has_pages": true,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 1,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -529,116 +639,6 @@
       "open_issues": 1,
       "watchers": 0,
       "default_branch": "master",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1189545274,
-      "node_id": "R_kgDORucFOg",
-      "name": "portifolio",
-      "full_name": "vitorhugo-dotnet/portifolio",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-dotnet",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "html_url": "https://github.com/vitorhugo-dotnet",
-        "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-dotnet/portifolio",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio",
-      "forks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/deployments",
-      "created_at": "2026-03-23T12:34:58Z",
-      "updated_at": "2026-08-18T03:48:49Z",
-      "pushed_at": "2026-09-15T06:47:56Z",
-      "git_url": "git://github.com/vitorhugo-dotnet/portifolio.git",
-      "ssh_url": "git@github.com:vitorhugo-dotnet/portifolio.git",
-      "clone_url": "https://github.com/vitorhugo-dotnet/portifolio.git",
-      "svn_url": "https://github.com/vitorhugo-dotnet/portifolio",
-      "homepage": "http://hugodotnet.dev/",
-      "size": 868,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "TypeScript",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": false,
-      "has_wiki": false,
-      "has_pages": true,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 1,
-      "license": null,
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 1,
-      "watchers": 0,
-      "default_branch": "main",
       "permissions": {
         "admin": false,
         "maintain": false,
@@ -2357,14 +2357,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:28:08Z",
-      "updated_at": "2026-09-16T01:17:11Z",
-      "pushed_at": "2026-09-16T01:17:10Z",
+      "updated_at": "2026-09-17T02:01:36Z",
+      "pushed_at": "2026-09-17T02:01:35Z",
       "git_url": "git://github.com/vitorhugo-dotnet/SpringBoot-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/SpringBoot-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/SpringBoot-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-dotnet/SpringBoot-JobApplyTracker",
       "homepage": "",
-      "size": 4398,
+      "size": 4454,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Java",
@@ -2378,7 +2378,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 2,
+      "open_issues_count": 3,
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -2407,7 +2407,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 2,
+      "open_issues": 3,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -2489,14 +2489,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:29:30Z",
-      "updated_at": "2026-09-15T23:09:41Z",
-      "pushed_at": "2026-09-15T23:09:37Z",
+      "updated_at": "2026-09-17T00:03:44Z",
+      "pushed_at": "2026-09-17T00:03:47Z",
       "git_url": "git://github.com/vitorhugo-dotnet/React-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/React-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/React-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-dotnet/React-JobApplyTracker",
       "homepage": "https://applywell.hugodotnet.dev/",
-      "size": 1686,
+      "size": 1534,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -2510,7 +2510,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 2,
+      "open_issues_count": 0,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -2531,7 +2531,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 2,
+      "open_issues": 0,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -2548,7 +2548,7 @@
   ],
   "events": [
     {
-      "id": "21260303242",
+      "id": "21362343747",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2565,332 +2565,16 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 43703123559,
-        "ref": "refs/heads/fix/85-gemini-search-json-errors",
-        "head": "a7d1338be8f718ec8efe0e9fdd06c8a84a7b9e1f",
-        "before": "96a328f714cb9c94794590efcf67de2644d527f7"
+        "push_id": 43800267350,
+        "ref": "refs/heads/fix/passkey-discoverable-login",
+        "head": "c9c4f9e0086f77fd64a628e797534173cdc563fa",
+        "before": "72890143237124cc65b5c9ab1ccfe84cf0d840a0"
       },
       "public": true,
-      "created_at": "2026-09-16T01:08:49Z"
+      "created_at": "2026-09-16T23:39:24Z"
     },
     {
-      "id": "15113858332",
-      "type": "IssuesEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "opened",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87",
-          "repository_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87/events",
-          "html_url": "https://github.com/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87",
-          "id": 5469552188,
-          "node_id": "I_kwDOSBgdQc8AAAABRgK-PA",
-          "number": 87,
-          "title": "feat: expose Gemini 429 retry delay and failed-message retry state",
-          "user": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "open",
-          "locked": false,
-          "assignees": [
-            {
-              "login": "vitorhugo-dotnet",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-dotnet",
-              "html_url": "https://github.com/vitorhugo-dotnet",
-              "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            }
-          ],
-          "milestone": null,
-          "comments": 0,
-          "created_at": "2026-09-16T02:34:20Z",
-          "updated_at": "2026-09-16T02:34:20Z",
-          "closed_at": null,
-          "assignee": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "active_lock_reason": null,
-          "sub_issues_summary": {
-            "total": 0,
-            "completed": 0,
-            "percent_completed": 0
-          },
-          "issue_dependencies_summary": {
-            "blocked_by": 0,
-            "total_blocked_by": 0,
-            "blocking": 0,
-            "total_blocking": 0
-          },
-          "body": "## Context\n\nThe Ask ApplyWell assistant currently maps provider failures to a generic SSE error (`Assistant provider is unavailable`), which hides useful Gemini rate-limit information and makes it impossible for the frontend to identify which user message failed.\n\nGrafana/Loki logs show Gemini `429 RESOURCE_EXHAUSTED` responses containing a provider-provided retry delay, for example:\n\n```text\nQuota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests\nPlease retry in 35.878391973s.\n```\n\n## Goal\n\nExpose structured provider error information through SSE so the frontend can show the correct failed message state and allow the user to retry it.\n\n## Backend requirements\n\n- Detect Gemini `429 RESOURCE_EXHAUSTED` / quota errors explicitly.\n- If Gemini provides a retry delay, extract it and propagate it to the SSE error event.\n- Do not invent a retry delay when the provider does not send one.\n- Preserve the generic provider unavailable behavior for non-rate-limit failures.\n- Keep provider-specific parsing isolated from the controller when possible.\n\n### Suggested SSE payload\n\n```json\n{\n  \"code\": \"RATE_LIMITED\",\n  \"message\": \"Gemini rate limit exceeded\",\n  \"retryAfterSeconds\": 36\n}\n```\n\nFor generic provider failures:\n\n```json\n{\n  \"code\": \"PROVIDER_UNAVAILABLE\",\n  \"message\": \"Assistant provider is unavailable\"\n}\n```\n\n## Frontend / chat UX requirements\n\nThe frontend must be able to detect exactly which user message originated the failed request.\n\nWhen a request fails:\n\n- Mark the corresponding user message as failed.\n- Show a visible error/status icon next to that message.\n- Show a retry icon/action next to the failed message.\n- Retrying must resend only that failed message.\n- Do not duplicate the user message in chat when retrying.\n- When the retry succeeds, clear the failed state.\n\n### Rate-limit UX\n\nWhen the error contains `retryAfterSeconds`:\n\n- Show a message such as `Rate limit reached. Try again in 36s.`\n- Show a countdown using the provider-provided value.\n- Disable the retry action while the countdown is active.\n- Enable retry when the countdown reaches zero.\n- Do **not** automatically resend the message when the countdown ends.\n\nWhen no retry delay is provided:\n\n- Keep the manual retry action available.\n- Do not fabricate a timeout.\n\n## Tests\n\nAdd coverage for:\n\n- Gemini `429` with retry delay.\n- Gemini `429` without retry delay.\n- Generic provider failure.\n- Structured SSE error payload.\n- Failed user-message state in the frontend.\n- Retry resending the original message only once.\n- Retry not duplicating the user message.\n- Countdown disabling retry until the provider-provided delay expires.\n- Successful retry clearing the failed state.\n\n## Notes\n\nThe backend should expose structured error metadata instead of requiring the frontend to parse human-readable provider messages.\n",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87/timeline",
-          "performed_via_github_app": null,
-          "state_reason": null,
-          "pinned_comment": null
-        }
-      },
-      "public": true,
-      "created_at": "2026-09-16T02:34:22Z"
-    },
-    {
-      "id": "15113858091",
-      "type": "IssuesEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "assigned",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87",
-          "repository_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87/events",
-          "html_url": "https://github.com/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87",
-          "id": 5469552188,
-          "node_id": "I_kwDOSBgdQc8AAAABRgK-PA",
-          "number": 87,
-          "title": "feat: expose Gemini 429 retry delay and failed-message retry state",
-          "user": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "open",
-          "locked": false,
-          "assignees": [
-            {
-              "login": "vitorhugo-dotnet",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-dotnet",
-              "html_url": "https://github.com/vitorhugo-dotnet",
-              "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            }
-          ],
-          "milestone": null,
-          "comments": 0,
-          "created_at": "2026-09-16T02:34:20Z",
-          "updated_at": "2026-09-16T02:34:20Z",
-          "closed_at": null,
-          "assignee": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "active_lock_reason": null,
-          "sub_issues_summary": {
-            "total": 0,
-            "completed": 0,
-            "percent_completed": 0
-          },
-          "issue_dependencies_summary": {
-            "blocked_by": 0,
-            "total_blocked_by": 0,
-            "blocking": 0,
-            "total_blocking": 0
-          },
-          "body": "## Context\n\nThe Ask ApplyWell assistant currently maps provider failures to a generic SSE error (`Assistant provider is unavailable`), which hides useful Gemini rate-limit information and makes it impossible for the frontend to identify which user message failed.\n\nGrafana/Loki logs show Gemini `429 RESOURCE_EXHAUSTED` responses containing a provider-provided retry delay, for example:\n\n```text\nQuota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests\nPlease retry in 35.878391973s.\n```\n\n## Goal\n\nExpose structured provider error information through SSE so the frontend can show the correct failed message state and allow the user to retry it.\n\n## Backend requirements\n\n- Detect Gemini `429 RESOURCE_EXHAUSTED` / quota errors explicitly.\n- If Gemini provides a retry delay, extract it and propagate it to the SSE error event.\n- Do not invent a retry delay when the provider does not send one.\n- Preserve the generic provider unavailable behavior for non-rate-limit failures.\n- Keep provider-specific parsing isolated from the controller when possible.\n\n### Suggested SSE payload\n\n```json\n{\n  \"code\": \"RATE_LIMITED\",\n  \"message\": \"Gemini rate limit exceeded\",\n  \"retryAfterSeconds\": 36\n}\n```\n\nFor generic provider failures:\n\n```json\n{\n  \"code\": \"PROVIDER_UNAVAILABLE\",\n  \"message\": \"Assistant provider is unavailable\"\n}\n```\n\n## Frontend / chat UX requirements\n\nThe frontend must be able to detect exactly which user message originated the failed request.\n\nWhen a request fails:\n\n- Mark the corresponding user message as failed.\n- Show a visible error/status icon next to that message.\n- Show a retry icon/action next to the failed message.\n- Retrying must resend only that failed message.\n- Do not duplicate the user message in chat when retrying.\n- When the retry succeeds, clear the failed state.\n\n### Rate-limit UX\n\nWhen the error contains `retryAfterSeconds`:\n\n- Show a message such as `Rate limit reached. Try again in 36s.`\n- Show a countdown using the provider-provided value.\n- Disable the retry action while the countdown is active.\n- Enable retry when the countdown reaches zero.\n- Do **not** automatically resend the message when the countdown ends.\n\nWhen no retry delay is provided:\n\n- Keep the manual retry action available.\n- Do not fabricate a timeout.\n\n## Tests\n\nAdd coverage for:\n\n- Gemini `429` with retry delay.\n- Gemini `429` without retry delay.\n- Generic provider failure.\n- Structured SSE error payload.\n- Failed user-message state in the frontend.\n- Retry resending the original message only once.\n- Retry not duplicating the user message.\n- Countdown disabling retry until the provider-provided delay expires.\n- Successful retry clearing the failed state.\n\n## Notes\n\nThe backend should expose structured error metadata instead of requiring the frontend to parse human-readable provider messages.\n",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/87/timeline",
-          "performed_via_github_app": null,
-          "state_reason": null,
-          "pinned_comment": null
-        },
-        "assignee": {
-          "login": "vitorhugo-dotnet",
-          "id": 65777252,
-          "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/vitorhugo-dotnet",
-          "html_url": "https://github.com/vitorhugo-dotnet",
-          "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-          "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-          "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-          "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-          "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-          "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "assignees": [
-          {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          }
-        ]
-      },
-      "public": true,
-      "created_at": "2026-09-16T02:34:22Z"
-    },
-    {
-      "id": "21251441263",
+      "id": "21361004116",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2901,338 +2585,22 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1290352056,
-        "name": "vitorhugo-dotnet/flutter_mobile-web_SonicRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/flutter_mobile-web_SonicRelay"
+        "id": 1209539905,
+        "name": "vitorhugo-dotnet/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "repository_id": 1290352056,
-        "push_id": 43685533070,
-        "ref": "refs/heads/main",
-        "head": "704cad09eb406e6eeb9d815f6c1f4f14e38cc758",
-        "before": "0e2a464bd61c7dd5cb25248e0814e262649cef79"
+        "repository_id": 1209539905,
+        "push_id": 43798651783,
+        "ref": "refs/heads/fix/passkey-login-without-email",
+        "head": "720ca0ff696d0eea1ba8e4d21b8f6473b41ba069",
+        "before": "bf757996ca4d79c72b4a8f5c8c47022cb03c1c32"
       },
       "public": true,
-      "created_at": "2026-09-15T19:55:30Z"
+      "created_at": "2026-09-16T23:06:41Z"
     },
     {
-      "id": "15112043069",
-      "type": "IssuesEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-dotnet/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
-      },
-      "payload": {
-        "action": "assigned",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110",
-          "repository_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110/events",
-          "html_url": "https://github.com/vitorhugo-dotnet/React-JobApplyTracker/issues/110",
-          "id": 5469224944,
-          "node_id": "I_kwDOSBgiFs8AAAABRf2_8A",
-          "number": 110,
-          "title": "fix: retry assistant chat request after access token refresh",
-          "user": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "open",
-          "locked": false,
-          "assignees": [
-            {
-              "login": "vitorhugo-dotnet",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-dotnet",
-              "html_url": "https://github.com/vitorhugo-dotnet",
-              "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            }
-          ],
-          "milestone": null,
-          "comments": 0,
-          "created_at": "2026-09-16T01:42:14Z",
-          "updated_at": "2026-09-16T01:42:59Z",
-          "closed_at": null,
-          "assignee": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "active_lock_reason": null,
-          "sub_issues_summary": {
-            "total": 0,
-            "completed": 0,
-            "percent_completed": 0
-          },
-          "issue_dependencies_summary": {
-            "blocked_by": 0,
-            "total_blocked_by": 0,
-            "blocking": 0,
-            "total_blocking": 0
-          },
-          "body": "## Bug\n\nThe Ask ApplyWell chat can remain stuck indefinitely on \"Thinking...\" when the access token expires.\n\nObserved in production logs:\n\n```text\nPOST /api/v1/assistant/chat\nstatus=403\nduration=575ms\nuserEmail=anonymous\n\nPOST /api/v1/auth/refresh\nstatus=200\nduration=500ms",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110/timeline",
-          "performed_via_github_app": null,
-          "state_reason": null,
-          "pinned_comment": null
-        },
-        "assignee": {
-          "login": "vitorhugo-dotnet",
-          "id": 65777252,
-          "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/vitorhugo-dotnet",
-          "html_url": "https://github.com/vitorhugo-dotnet",
-          "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-          "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-          "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-          "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-          "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-          "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "assignees": [
-          {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          }
-        ]
-      },
-      "public": true,
-      "created_at": "2026-09-16T01:42:59Z"
-    },
-    {
-      "id": "15112017687",
-      "type": "IssuesEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-dotnet/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
-      },
-      "payload": {
-        "action": "opened",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110",
-          "repository_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110/events",
-          "html_url": "https://github.com/vitorhugo-dotnet/React-JobApplyTracker/issues/110",
-          "id": 5469224944,
-          "node_id": "I_kwDOSBgiFs8AAAABRf2_8A",
-          "number": 110,
-          "title": "fix: retry assistant chat request after access token refresh",
-          "user": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "open",
-          "locked": false,
-          "assignees": [
-            {
-              "login": "vitorhugo-dotnet",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-dotnet",
-              "html_url": "https://github.com/vitorhugo-dotnet",
-              "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            }
-          ],
-          "milestone": null,
-          "comments": 0,
-          "created_at": "2026-09-16T01:42:14Z",
-          "updated_at": "2026-09-16T01:42:59Z",
-          "closed_at": null,
-          "assignee": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "active_lock_reason": null,
-          "sub_issues_summary": {
-            "total": 0,
-            "completed": 0,
-            "percent_completed": 0
-          },
-          "issue_dependencies_summary": {
-            "blocked_by": 0,
-            "total_blocked_by": 0,
-            "blocking": 0,
-            "total_blocking": 0
-          },
-          "body": "## Bug\n\nThe Ask ApplyWell chat can remain stuck indefinitely on \"Thinking...\" when the access token expires.\n\nObserved in production logs:\n\n```text\nPOST /api/v1/assistant/chat\nstatus=403\nduration=575ms\nuserEmail=anonymous\n\nPOST /api/v1/auth/refresh\nstatus=200\nduration=500ms",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker/issues/110/timeline",
-          "performed_via_github_app": null,
-          "state_reason": null,
-          "pinned_comment": null
-        }
-      },
-      "public": true,
-      "created_at": "2026-09-16T01:42:15Z"
-    },
-    {
-      "id": "21249751071",
+      "id": "21360186149",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -3249,16 +2617,174 @@
       },
       "payload": {
         "repository_id": 1200019618,
-        "push_id": 43683587253,
+        "push_id": 43642516443,
         "ref": "refs/heads/master",
-        "head": "925321800af68d0e4c4507ddc4cb9249c683a5ce",
-        "before": "701842d2663518b0b2927ee2198b230714704d58"
+        "head": "5e5bfb444694da9bca963378c832dda7a312c63c",
+        "before": "51a4393c810a36ad32238bd691e31b46121e353f"
       },
       "public": true,
-      "created_at": "2026-09-15T19:26:59Z"
+      "created_at": "2026-09-15T11:07:34Z"
     },
     {
-      "id": "21249558754",
+      "id": "21357885098",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1290352056,
+        "name": "vitorhugo-dotnet/flutter_mobile-web_SonicRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/flutter_mobile-web_SonicRelay"
+      },
+      "payload": {
+        "repository_id": 1290352056,
+        "push_id": 43665704509,
+        "ref": "refs/heads/chore/migrate-cloudflare-workers-62",
+        "head": "e0aad85519818687a774c1847a621ae8e9743191",
+        "before": "2b9e048bfe45485a51cde56dfcae96294452df38"
+      },
+      "public": true,
+      "created_at": "2026-09-15T15:26:24Z"
+    },
+    {
+      "id": "21357293806",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-dotnet/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
+      },
+      "payload": {
+        "ref": "feat/105-new-logo",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/feat/105-new-logo",
+        "master_branch": "main",
+        "description": "🚀 A modern, responsive frontend application to track and manage job applications. Built with React, Vite, and Tailwind CSS, it features a comprehensive dashboard, application status tracking, and authentication.",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-09-15T15:19:24Z"
+    },
+    {
+      "id": "21356598189",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-dotnet/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 43800253669,
+        "ref": "refs/heads/fix/passkey-discoverable-login",
+        "head": "72890143237124cc65b5c9ab1ccfe84cf0d840a0",
+        "before": "d6dbb1071b88c81dbe6c1a4b18cd071c5bc79601"
+      },
+      "public": true,
+      "created_at": "2026-09-16T23:39:07Z"
+    },
+    {
+      "id": "21355533860",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-dotnet/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 43798963593,
+        "ref": "refs/heads/fix/passkey-login-without-email",
+        "head": "7ba58a97358976657e3cf2f988615763e5e88f4d",
+        "before": "47a614b181c4f018e276e39a0b8aa101bff6346e"
+      },
+      "public": true,
+      "created_at": "2026-09-16T23:13:00Z"
+    },
+    {
+      "id": "21355235950",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-dotnet/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "ref": "fix/passkey-login-without-email",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/fix/passkey-login-without-email",
+        "master_branch": "main",
+        "description": "⚙️ Robust REST API for the JobApplyTracker system. Built with Spring Boot and MariaDB, featuring JWT authentication, Flyway migrations, and comprehensive monitoring with Prometheus & Grafana.",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-09-16T23:05:22Z"
+    },
+    {
+      "id": "21353714810",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1200019618,
+        "name": "vitorhugo-dotnet/angular-animeseason-jikan",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/angular-animeseason-jikan"
+      },
+      "payload": {
+        "repository_id": 1200019618,
+        "push_id": 43683566307,
+        "ref": "refs/heads/master",
+        "head": "701842d2663518b0b2927ee2198b230714704d58",
+        "before": "417f99858f5c1d8bfa362608ccf5b3ca84b367f3"
+      },
+      "public": true,
+      "created_at": "2026-09-15T19:26:40Z"
+    },
+    {
+      "id": "21353133876",
       "type": "DeleteEvent",
       "actor": {
         "id": 65777252,
@@ -3274,203 +2800,16 @@
         "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "ref": "fix/85-gemini-search-json-errors",
+        "ref": "fix/passkey-registration-public-key",
         "ref_type": "branch",
-        "full_ref": "refs/heads/fix/85-gemini-search-json-errors",
+        "full_ref": "refs/heads/fix/passkey-registration-public-key",
         "pusher_type": "user"
       },
       "public": true,
-      "created_at": "2026-09-16T01:17:11Z"
-    },
-    {
-      "id": "15111135485",
-      "type": "IssuesEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "closed",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/85",
-          "repository_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/85/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/85/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/85/events",
-          "html_url": "https://github.com/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/85",
-          "id": 5468950547,
-          "node_id": "I_kwDOSBgdQc8AAAABRfmQEw",
-          "number": 85,
-          "title": "fix: prevent Gemini assistant crash on empty search query and non-JSON tool errors",
-          "user": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "closed",
-          "locked": false,
-          "assignees": [
-            {
-              "login": "vitorhugo-dotnet",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-dotnet",
-              "html_url": "https://github.com/vitorhugo-dotnet",
-              "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            }
-          ],
-          "milestone": null,
-          "comments": 0,
-          "created_at": "2026-09-16T00:55:59Z",
-          "updated_at": "2026-09-16T01:17:08Z",
-          "closed_at": "2026-09-16T01:17:08Z",
-          "assignee": {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "active_lock_reason": null,
-          "sub_issues_summary": {
-            "total": 0,
-            "completed": 0,
-            "percent_completed": 0
-          },
-          "issue_dependencies_summary": {
-            "blocked_by": 0,
-            "total_blocked_by": 0,
-            "blocking": 0,
-            "total_blocking": 0
-          },
-          "body": "## Context\n\nThe ApplyWell assistant crashes during contextual follow-up questions when Gemini invokes `searchApplications` without a text `query`.\n\nObserved flow:\n\n1. User asks for aggregate data, e.g. `quantas vagas eu já me inscrevi na CWI?`\n2. Assistant answers correctly using stats.\n3. User follows up with `Alguma delas eu fiz entrevista?`\n4. Gemini invokes `searchApplications` with structured context/filters but without `query`.\n5. `AssistantApplicationQueryService.requiredQuery()` throws `IllegalArgumentException(\"query is required\")`.\n6. Spring AI `GoogleGenAiChatModel` tries to parse the plain-text tool error as JSON and crashes in `parseJsonToMap()` / `messageToGeminiParts()`.\n7. Frontend receives the generic `The assistant is temporarily unavailable.` state.\n\n## Evidence\n\nBackend logs around 2026-09-15 21:49 BRT:\n\n```text\njava.lang.RuntimeException: Failed to parse JSON: query is required\n    at org.springframework.ai.google.genai.GoogleGenAiChatModel.parseJsonToMap(...)\n    at org.springframework.ai.google.genai.GoogleGenAiChatModel.messageToGeminiParts(...)\n\nCaused by: com.fasterxml.jackson.core.JsonParseException:\nUnrecognized token 'query': was expecting JSON String, Number, Array, Object or token 'null', 'true' or 'false'\n```\n\nRelevant code:\n\n- `AssistantTools.searchApplications(SearchInput input)`\n- `AssistantApplicationQueryService.search(...)`\n- `AssistantApplicationQueryService.requiredQuery(...)`\n\n## Root causes\n\n### 1. `searchApplications` requires `query` even when structured filters are sufficient\n\nThe tool exposes structured fields such as `organization`, `status`, `platform`, and date range, but the service always requires a non-empty `query`.\n\nThis makes contextual follow-ups fragile because the model may correctly preserve structured context without repeating the original search text.\n\n### 2. Non-JSON tool failures are unsafe with Spring AI Google GenAI\n\nSpring AI currently has an upstream issue where `GoogleGenAiChatModel` assumes tool responses are JSON and crashes on plain text:\n\n- https://github.com/spring-projects/spring-ai/issues/5437\n\nUntil that is fixed upstream, tool outputs/errors sent back to Gemini should be structured JSON-safe payloads.\n\n## Expected behavior\n\nA contextual question such as:\n\n```text\nUser: quantas vagas eu já me inscrevi na CWI?\nAssistant: Você já se inscreveu em 5 vagas na CWI.\nUser: Alguma delas eu fiz entrevista?\n```\n\nmust complete successfully without requiring the model to repeat `CWI` as a free-text `query`.\n\n## Acceptance criteria\n\n- [ ] `searchApplications` accepts a null/blank `query` when at least one structured filter is present.\n- [ ] Validation rejects calls only when no searchable text and no meaningful structured filter are provided.\n- [ ] Tool errors/results returned to Gemini are JSON-safe while Spring AI issue #5437 remains unresolved.\n- [ ] Add regression test for structured search with `query == null`.\n- [ ] Add regression test for a contextual follow-up equivalent to `Alguma delas eu fiz entrevista?`.\n- [ ] Add test ensuring tool failures do not produce a non-JSON response that crashes `GoogleGenAiChatModel`.\n- [ ] Existing assistant search/stats behavior remains unchanged.\n- [ ] Frontend should receive a normal assistant response or a controlled application error, never a provider parsing exception.\n\n## Notes\n\nPrefer fixing the tool contract and error serialization rather than forcing the prompt to always fabricate/repeat a text query. The tool schema should reflect what the backend actually supports, otherwise the model gets blamed for stepping on a rake we left in the hallway.",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/85/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/issues/85/timeline",
-          "performed_via_github_app": null,
-          "state_reason": "completed",
-          "pinned_comment": null
-        }
-      },
-      "public": true,
-      "created_at": "2026-09-16T01:17:08Z"
-    },
-    {
-      "id": "15111135183",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "merged",
-        "number": 86,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker/pulls/86",
-          "id": 4542926932,
-          "number": 86,
-          "head": {
-            "ref": "fix/85-gemini-search-json-errors",
-            "sha": "a7d1338be8f718ec8efe0e9fdd06c8a84a7b9e1f",
-            "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "45be961e17e6507e669aa6b5ef128832572a8824",
-            "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-09-16T01:17:07Z"
+      "created_at": "2026-09-17T02:01:35Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-09-17",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-18",
       "count": 0,
@@ -5213,18 +4552,18 @@
     },
     {
       "date": "2026-09-01",
-      "count": 6,
-      "level": 3
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-09-02",
-      "count": 7,
-      "level": 3
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-09-03",
-      "count": 10,
-      "level": 3
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-09-04",
@@ -5253,17 +4592,17 @@
     },
     {
       "date": "2026-09-09",
-      "count": 9,
-      "level": 3
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-09-10",
-      "count": 59,
+      "count": 31,
       "level": 4
     },
     {
       "date": "2026-09-11",
-      "count": 2,
+      "count": 1,
       "level": 1
     },
     {
@@ -5278,19 +4617,24 @@
     },
     {
       "date": "2026-09-14",
-      "count": 42,
+      "count": 45,
       "level": 4
     },
     {
       "date": "2026-09-15",
-      "count": 97,
+      "count": 110,
       "level": 4
     },
     {
       "date": "2026-09-16",
-      "count": 12,
+      "count": 46,
+      "level": 4
+    },
+    {
+      "date": "2026-09-17",
+      "count": 11,
       "level": 4
     }
   ],
-  "generatedAt": "2026-09-16T05:32:34.396Z"
+  "generatedAt": "2026-09-17T05:38:12.502Z"
 }
