@@ -104,7 +104,7 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/vitorhugo-dotnet/deployments",
       "created_at": "2021-02-12T19:28:48Z",
       "updated_at": "2026-08-19T00:22:12Z",
-      "pushed_at": "2026-09-22T02:47:14Z",
+      "pushed_at": "2026-09-23T02:47:36Z",
       "git_url": "git://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/vitorhugo-dotnet.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/vitorhugo-dotnet.git",
@@ -216,14 +216,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/deployments",
       "created_at": "2026-08-23T17:18:59Z",
-      "updated_at": "2026-09-21T17:30:12Z",
-      "pushed_at": "2026-09-21T21:03:42Z",
+      "updated_at": "2026-09-22T11:52:06Z",
+      "pushed_at": "2026-09-22T11:56:13Z",
       "git_url": "git://github.com/vitorhugo-dotnet/dotnet_FrameRelay.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/dotnet_FrameRelay.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/dotnet_FrameRelay.git",
       "svn_url": "https://github.com/vitorhugo-dotnet/dotnet_FrameRelay",
       "homepage": "",
-      "size": 680,
+      "size": 681,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "C#",
@@ -237,7 +237,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 4,
+      "open_issues_count": 3,
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -269,7 +269,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 4,
+      "open_issues": 3,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -349,13 +349,13 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-dotnet/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
       "updated_at": "2026-08-18T03:48:49Z",
-      "pushed_at": "2026-09-21T07:16:04Z",
+      "pushed_at": "2026-09-22T06:52:28Z",
       "git_url": "git://github.com/vitorhugo-dotnet/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-dotnet/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-dotnet/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-dotnet/portifolio",
       "homepage": "http://hugodotnet.dev/",
-      "size": 863,
+      "size": 867,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -2562,6 +2562,130 @@
   ],
   "events": [
     {
+      "id": "21835115238",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1344024708,
+        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
+      },
+      "payload": {
+        "ref": "fix/capture-encode-performance",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/fix/capture-encode-performance",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-09-22T11:52:04Z"
+    },
+    {
+      "id": "21835112374",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1344024708,
+        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
+      },
+      "payload": {
+        "repository_id": 1344024708,
+        "push_id": 44254280926,
+        "ref": "refs/heads/main",
+        "head": "fc18b7d9cdea1aebb3d19585d1765f3c142f1bf3",
+        "before": "9b9eebea0ead514cb511bae7d3ea236a37adebdb"
+      },
+      "public": true,
+      "created_at": "2026-09-22T11:52:02Z"
+    },
+    {
+      "id": "15500898034",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1344024708,
+        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
+      },
+      "payload": {
+        "action": "merged",
+        "number": 21,
+        "pull_request": {
+          "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/pulls/21",
+          "id": 4596108795,
+          "number": 21,
+          "head": {
+            "ref": "fix/capture-encode-performance",
+            "sha": "a725b9fc5715be2ff7d8e15472e0e16e2040978f",
+            "repo": {
+              "id": 1344024708,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
+              "name": "dotnet_FrameRelay"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "9b9eebea0ead514cb511bae7d3ea236a37adebdb",
+            "repo": {
+              "id": 1344024708,
+              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
+              "name": "dotnet_FrameRelay"
+            }
+          }
+        }
+      },
+      "public": true,
+      "created_at": "2026-09-22T11:52:01Z"
+    },
+    {
+      "id": "21819445769",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-dotnet",
+        "display_login": "vitorhugo-dotnet",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-dotnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1344024708,
+        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
+        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
+      },
+      "payload": {
+        "ref": "fix/capture-encode-performance",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/fix/capture-encode-performance",
+        "master_branch": "main",
+        "description": "Windows screen and system-audio sharing over WebRTC, built with Avalonia, Windows Graphics Capture, FFmpeg/H.264 and RelayControl.",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-09-21T21:03:43Z"
+    },
+    {
       "id": "15461633031",
       "type": "PullRequestEvent",
       "actor": {
@@ -2736,223 +2860,9 @@
       },
       "public": true,
       "created_at": "2026-09-21T17:16:00Z"
-    },
-    {
-      "id": "15448862664",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1344024708,
-        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
-      },
-      "payload": {
-        "action": "merged",
-        "number": 20,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/pulls/20",
-          "id": 4594210295,
-          "number": 20,
-          "head": {
-            "ref": "fix/video-recovery",
-            "sha": "d3ab0f735f4e5bb4bfa3845f4065326a2c689e39",
-            "repo": {
-              "id": 1344024708,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
-              "name": "dotnet_FrameRelay"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "802b531cd3d1d1ce4532985612c71b9677e3096f",
-            "repo": {
-              "id": 1344024708,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
-              "name": "dotnet_FrameRelay"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-09-21T17:30:07Z"
-    },
-    {
-      "id": "15448829613",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1344024708,
-        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
-      },
-      "payload": {
-        "action": "assigned",
-        "number": 20,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/pulls/20",
-          "id": 4594210295,
-          "number": 20,
-          "head": {
-            "ref": "fix/video-recovery",
-            "sha": "d3ab0f735f4e5bb4bfa3845f4065326a2c689e39",
-            "repo": {
-              "id": 1344024708,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
-              "name": "dotnet_FrameRelay"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "802b531cd3d1d1ce4532985612c71b9677e3096f",
-            "repo": {
-              "id": 1344024708,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
-              "name": "dotnet_FrameRelay"
-            }
-          }
-        },
-        "assignee": {
-          "login": "vitorhugo-dotnet",
-          "id": 65777252,
-          "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/vitorhugo-dotnet",
-          "html_url": "https://github.com/vitorhugo-dotnet",
-          "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-          "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-          "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-          "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-          "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-          "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-          "type": "User",
-          "user_view_type": "public",
-          "site_admin": false
-        },
-        "assignees": [
-          {
-            "login": "vitorhugo-dotnet",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-dotnet",
-            "html_url": "https://github.com/vitorhugo-dotnet",
-            "followers_url": "https://api.github.com/users/vitorhugo-dotnet/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-dotnet/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-dotnet/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-dotnet/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-dotnet/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-dotnet/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-dotnet/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-dotnet/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-dotnet/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          }
-        ]
-      },
-      "public": true,
-      "created_at": "2026-09-21T17:16:42Z"
-    },
-    {
-      "id": "15448043940",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1344024708,
-        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
-      },
-      "payload": {
-        "action": "opened",
-        "number": 20,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay/pulls/20",
-          "id": 4594210295,
-          "number": 20,
-          "head": {
-            "ref": "fix/video-recovery",
-            "sha": "d3ab0f735f4e5bb4bfa3845f4065326a2c689e39",
-            "repo": {
-              "id": 1344024708,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
-              "name": "dotnet_FrameRelay"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "802b531cd3d1d1ce4532985612c71b9677e3096f",
-            "repo": {
-              "id": 1344024708,
-              "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay",
-              "name": "dotnet_FrameRelay"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-09-21T17:16:42Z"
-    },
-    {
-      "id": "21754500198",
-      "type": "CreateEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-dotnet",
-        "display_login": "vitorhugo-dotnet",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-dotnet",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1344024708,
-        "name": "vitorhugo-dotnet/dotnet_FrameRelay",
-        "url": "https://api.github.com/repos/vitorhugo-dotnet/dotnet_FrameRelay"
-      },
-      "payload": {
-        "ref": "feat/stream-performance-quality-controls",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/feat/stream-performance-quality-controls",
-        "master_branch": "main",
-        "description": "Windows screen and system-audio sharing over WebRTC, built with Avalonia, Windows Graphics Capture, FFmpeg/H.264 and RelayControl.",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-09-21T14:52:11Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-09-23",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-24",
       "count": 0,
@@ -4750,7 +4660,7 @@
     },
     {
       "date": "2026-09-18",
-      "count": 222,
+      "count": 218,
       "level": 4
     },
     {
@@ -4765,14 +4675,19 @@
     },
     {
       "date": "2026-09-21",
-      "count": 20,
+      "count": 21,
       "level": 4
     },
     {
       "date": "2026-09-22",
+      "count": 3,
+      "level": 2
+    },
+    {
+      "date": "2026-09-23",
       "count": 0,
       "level": 0
     }
   ],
-  "generatedAt": "2026-09-22T05:42:11.135Z"
+  "generatedAt": "2026-09-23T05:24:52.626Z"
 }
